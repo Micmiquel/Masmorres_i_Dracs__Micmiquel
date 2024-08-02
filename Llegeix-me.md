@@ -7,6 +7,12 @@ Per a poder gaudir òptimament d'aquest material, cal seguir aquests simples pas
  3. El programa demanarà si es confia en els plugins de tercers. Cal acceptar-los per a visualitzar correctament els blocs de criatures, entre altres.
  4. Ja pots gaudir d'una gran col·lecció de material de Masmorres i Dracs en català!
 
+# Actualitzacions
+
+- 1.0. Primera publicació
+    - 1.1.
+        - S'han afegit els objectes màgics *Poció d'Invulnerabilitat* (DMG) i *Cristall Mental* (Phandelver and Below - The Shattered Obelisk).
+        - S'han realitzat diverses correccions gramàtiques i orgràfiques.
 
 # Contingut
 
