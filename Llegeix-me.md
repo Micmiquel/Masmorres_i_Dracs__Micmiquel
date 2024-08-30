@@ -13,6 +13,11 @@ Per a poder gaudir òptimament d'aquest material, cal seguir aquests simples pas
     - 1.1.
         - S'han afegit els objectes màgics *Poció d'Invulnerabilitat* (DMG) i *Cristall Mental* (Phandelver and Below - The Shattered Obelisk).
         - S'han realitzat diverses correccions gramàtiques i orgràfiques.
+    - 1.2.
+        - S'ha afegit l'objecte màgic *Baralla de Meravelles* (The Book of Many Things)
+        - S'han reparat enllaços interns
+        - S'han reorganitzat les normes de Multi-classe
+        - S'han realitzat diverses correccions gramaticals i ortogràfiques
 
 # Contingut
 
