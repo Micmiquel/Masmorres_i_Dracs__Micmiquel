@@ -32806,7 +32806,7 @@
             "Pixie",
             {
                 "image": null,
-                "name": "Pixie",
+                "name": "Nimfa",
                 "size": "Diminut,",
                 "type": "Fey",
                 "alignment": "Neutral Bo",
@@ -32836,18 +32836,18 @@
                 "traits": [
                     {
                         "name": "Resistència Màgica",
-                        "desc": "La pixie té avantatge en salvaments contra encanteris i altres efectes màgics."
+                        "desc": "La nimfa té avantatge en salvaments contra encanteris i altres efectes màgics."
                     }
                 ],
                 "spells": [
-                    "L'habilitat innata d'encantament de la pixie és Carisma (salvament d'encanteri CD 12). Innatament pot conjurar els següents encanteris, requerint només la seva pols de pixie com a component:",
+                    "L'habilitat innata d'encantament de la nimfa és Carisma (salvament d'encanteri CD 12). Innatament pot conjurar els següents encanteris, requerint només la seva pols de nimfa com a component:",
                     "A voluntat: [[Creació de Druida]]",
                     "\n1/dia cada: [[Confusió]], [[Llums Dansants]], [[Detectar Bé i Mal]], [[Detectar Pensaments]], [[Dissipar Màgia]], Enredar, Volar, Força Fantasmal, [[Polimorf]], Dormir"
                 ],
                 "accions": [
                     {
                         "name": "Invisibilitat Superior",
-                        "desc": "La pixie màgicament es torna invisible fins que la seva concentració acaba (com concentrant-se en un encanteri). Qualsevol equipament que vesteix o porta es torna invisible amb ella."
+                        "desc": "La nimfa màgicament es torna invisible fins que la seva concentració acaba (com concentrant-se en un encanteri). Qualsevol equipament que vesteix o porta es torna invisible amb ella."
                     }
                 ],
                 "legendary_actions": [],
@@ -37681,7 +37681,7 @@
             "Sprite",
             {
                 "image": null,
-                "name": "Fada",
+                "name": "Esprit",
                 "size": "Diminut,",
                 "type": "Fey",
                 "alignment": "Neutral Bo",
@@ -37721,11 +37721,11 @@
                     },
                     {
                         "name": "Vista al Cor",
-                        "desc": "La fada toca una criatura i màgicament coneix la l'estat emocional actual de la criatura. Si l'objectiu falla un salvament de Carisma de CD 10, la fada també coneix la moral de la criatura. Celestials, Esperits Malignes, i No-Morts automàticament fallen el salvament."
+                        "desc": "L'esprit toca una criatura i màgicament coneix l'estat emocional actual de la criatura. Si l'objectiu falla un salvament de Carisma de CD 10, l'esprit també coneix la moral de la criatura. Celestials, Esperits Malignes, i No-Morts automàticament fallen el salvament."
                     },
                     {
                         "name": "Invisibilitat",
-                        "desc": "La fada màgicament es torna invisible fins que ataca o conjura un encanteri, o fins que la seva concentració acaba (com concentrant-se en un encanteri). Qualsevol equipament que la fada vesteix o porta es torna invisible amb ella."
+                        "desc": "L'esprit es torna invisible màgicament fins que ataca o conjura un encanteri, o fins que la seva concentració acaba (com concentrant-se en un encanteri). Qualsevol equipament que l'esprit vesteix o porta es torna invisible amb ell."
                     }
                 ],
                 "legendary_actions": [],
@@ -57134,13 +57134,13 @@
             "blocks": [
                 {
                     "type": "inline",
-                    "id": "8bb8392a0b3a",
+                    "id": "c82998683aca",
                     "properties": [],
                     "hasRule": true,
                     "nested": [
                         {
                             "type": "group",
-                            "id": "88c81bda8bbb",
+                            "id": "cb7af888d82a",
                             "properties": [
                                 "name",
                                 "size",
@@ -57151,13 +57151,13 @@
                             "nested": [
                                 {
                                     "type": "inline",
-                                    "id": "1ac84b599809",
+                                    "id": "39f908d9ea09",
                                     "properties": [],
                                     "hasRule": false,
                                     "nested": [
                                         {
                                             "type": "heading",
-                                            "id": "e889a9a9a8e9",
+                                            "id": "f8dafb7a68fb",
                                             "properties": [
                                                 "name"
                                             ],
@@ -57166,19 +57166,19 @@
                                         },
                                         {
                                             "type": "inline",
-                                            "id": "8b2aab78fb0a",
+                                            "id": "b9986afbf99a",
                                             "properties": [],
                                             "hasRule": false,
                                             "nested": [
                                                 {
                                                     "type": "action",
-                                                    "id": "99f9aa8a0bdb",
+                                                    "id": "4a098a189a58",
                                                     "icon": "sword",
                                                     "callback": "try { InitiativeTracker.newEncounter({roll: true, creatures: [monster]}); } catch(e) {}"
                                                 },
                                                 {
                                                     "type": "action",
-                                                    "id": "c8180bea6bb8",
+                                                    "id": "ba1bfa38a9ba",
                                                     "icon": "plus-with-circle",
                                                     "callback": "try { InitiativeTracker.addCreatures([monster]); } catch(e) {}"
                                                 }
@@ -57188,7 +57188,7 @@
                                 },
                                 {
                                     "type": "subheading",
-                                    "id": "eae9dbdbc85b",
+                                    "id": "98697829281a",
                                     "properties": [
                                         "size",
                                         "type",
@@ -57203,7 +57203,7 @@
                         },
                         {
                             "type": "image",
-                            "id": "496a3938b95b",
+                            "id": "0838b94909b9",
                             "properties": [
                                 "image"
                             ]
@@ -57212,7 +57212,7 @@
                 },
                 {
                     "type": "group",
-                    "id": "b86988484a18",
+                    "id": "fb8858389888",
                     "properties": [
                         "ac",
                         "hp",
@@ -57221,7 +57221,7 @@
                     "nested": [
                         {
                             "type": "property",
-                            "id": "6b2beb08b9d9",
+                            "id": "2b08585ae8b9",
                             "properties": [
                                 "ac"
                             ],
@@ -57231,7 +57231,7 @@
                         },
                         {
                             "type": "property",
-                            "id": "48abe90b2a8a",
+                            "id": "ba296ae93b58",
                             "properties": [
                                 "hp"
                             ],
@@ -57244,7 +57244,7 @@
                         },
                         {
                             "type": "property",
-                            "id": "18284a188919",
+                            "id": "ab9b5889c929",
                             "display": "Speed",
                             "properties": [
                                 "speed"
@@ -57257,7 +57257,7 @@
                 },
                 {
                     "type": "table",
-                    "id": "58eb5969b97a",
+                    "id": "eb481ada6b4a",
                     "properties": [
                         "stats"
                     ],
@@ -57275,7 +57275,7 @@
                 },
                 {
                     "type": "table",
-                    "id": "cb18798ad908",
+                    "id": "8a88bae88898",
                     "properties": [
                         "fage_stats"
                     ],
@@ -57296,7 +57296,7 @@
                 },
                 {
                     "type": "group",
-                    "id": "89786aaa992b",
+                    "id": "0bf88bd8782a",
                     "properties": [
                         "saves",
                         "skillsaves",
@@ -57311,7 +57311,7 @@
                     "nested": [
                         {
                             "type": "saves",
-                            "id": "69eb9a58a94b",
+                            "id": "b9db79cba88b",
                             "display": "Saves",
                             "properties": [
                                 "saves"
@@ -57320,7 +57320,7 @@
                         },
                         {
                             "type": "saves",
-                            "id": "0939bafa593a",
+                            "id": "6be97b889baa",
                             "display": "Skills",
                             "properties": [
                                 "skillsaves"
@@ -57329,7 +57329,7 @@
                         },
                         {
                             "type": "property",
-                            "id": "2b5b7a9bcbb9",
+                            "id": "4899497b0ab8",
                             "display": "Damage Resistances",
                             "properties": [
                                 "damage_resistances"
@@ -57338,7 +57338,7 @@
                         },
                         {
                             "type": "property",
-                            "id": "695bd819aa79",
+                            "id": "28b83bd8fab9",
                             "display": "Damage Immunities",
                             "properties": [
                                 "damage_immunities"
@@ -57347,7 +57347,7 @@
                         },
                         {
                             "type": "property",
-                            "id": "8828c918fbe9",
+                            "id": "88abbaf8399b",
                             "display": "Condition Immunities",
                             "properties": [
                                 "condition_immunities"
@@ -57356,7 +57356,7 @@
                         },
                         {
                             "type": "property",
-                            "id": "cbb8cae8795a",
+                            "id": "d9c83a7859f9",
                             "display": "Damage Vulnerabilities",
                             "properties": [
                                 "damage_vulnerabilities"
@@ -57365,7 +57365,7 @@
                         },
                         {
                             "type": "property",
-                            "id": "e8297aaa9888",
+                            "id": "b82b587989a8",
                             "display": "Senses",
                             "properties": [
                                 "senses"
@@ -57374,7 +57374,7 @@
                         },
                         {
                             "type": "property",
-                            "id": "78ba5a8b0b4a",
+                            "id": "78cb7988fa38",
                             "display": "Languages",
                             "properties": [
                                 "languages"
@@ -57383,13 +57383,13 @@
                         },
                         {
                             "type": "inline",
-                            "id": "2a8aa8c82aaa",
+                            "id": "b9ab0a8a4849",
                             "properties": [],
                             "conditioned": true,
                             "nested": [
                                 {
                                     "type": "property",
-                                    "id": "48d9086809db",
+                                    "id": "dbc80929ab9a",
                                     "display": "Challenge",
                                     "properties": [
                                         "cr"
@@ -57398,7 +57398,7 @@
                                 },
                                 {
                                     "type": "property",
-                                    "id": "e9db88db49a8",
+                                    "id": "b9197b288a78",
                                     "display": "Proficiency Bonus",
                                     "properties": [
                                         "cr"
@@ -57413,7 +57413,7 @@
                 },
                 {
                     "type": "traits",
-                    "id": "4b1bba1b18ab",
+                    "id": "884ad99b6b19",
                     "properties": [
                         "traits"
                     ],
@@ -57422,7 +57422,7 @@
                 },
                 {
                     "type": "spells",
-                    "id": "8ba999ba88da",
+                    "id": "28fa6908490b",
                     "properties": [
                         "spells"
                     ],
@@ -57431,7 +57431,7 @@
                 },
                 {
                     "type": "text",
-                    "id": "a8dab95af90a",
+                    "id": "296aa8689a6a",
                     "properties": [
                         "spellsNotes"
                     ],
@@ -57440,7 +57440,7 @@
                 },
                 {
                     "type": "traits",
-                    "id": "28aa48bbea48",
+                    "id": "39bb38c8a96b",
                     "properties": [
                         "actions"
                     ],
@@ -57450,7 +57450,7 @@
                 },
                 {
                     "type": "traits",
-                    "id": "eb781ba998e8",
+                    "id": "2b38d9aa5a78",
                     "properties": [
                         "bonus_actions"
                     ],
@@ -57460,7 +57460,7 @@
                 },
                 {
                     "type": "group",
-                    "id": "2a188bf818db",
+                    "id": "4b8b3949686a",
                     "properties": [
                         "legendary_description",
                         "legendary_actions"
@@ -57469,7 +57469,7 @@
                     "nested": [
                         {
                             "type": "text",
-                            "id": "0b3abb0af97a",
+                            "id": "89682a7868da",
                             "properties": [
                                 "legendary_description"
                             ],
@@ -57478,7 +57478,7 @@
                         },
                         {
                             "type": "traits",
-                            "id": "b82a989b991b",
+                            "id": "2b49d90a7b08",
                             "properties": [
                                 "legendary_actions"
                             ],
@@ -57490,7 +57490,7 @@
                 },
                 {
                     "type": "group",
-                    "id": "2b7bb8eac9b8",
+                    "id": "d95b29a8e99a",
                     "properties": [
                         "mythic_description",
                         "mythic_actions"
@@ -57499,7 +57499,7 @@
                     "nested": [
                         {
                             "type": "text",
-                            "id": "b9fbcb48699b",
+                            "id": "abd8d829f9bb",
                             "properties": [
                                 "mythic_description"
                             ],
@@ -57508,7 +57508,7 @@
                         },
                         {
                             "type": "traits",
-                            "id": "a8fbab09cbd9",
+                            "id": "3bb8c94a6a4b",
                             "properties": [
                                 "mythic_actions"
                             ],
@@ -57520,7 +57520,7 @@
                 },
                 {
                     "type": "traits",
-                    "id": "6919eadbe869",
+                    "id": "d99b68a99a1b",
                     "properties": [
                         "reactions"
                     ],
@@ -57530,7 +57530,7 @@
                 },
                 {
                     "type": "traits",
-                    "id": "b878b9d87ad9",
+                    "id": "eb3ad97bbb08",
                     "properties": [
                         "lair_actions"
                     ],
@@ -57540,7 +57540,7 @@
                 },
                 {
                     "type": "traits",
-                    "id": "da2819b9eb28",
+                    "id": "68281ac81a1a",
                     "properties": [
                         "regional_effects"
                     ],
