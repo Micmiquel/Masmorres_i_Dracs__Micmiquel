@@ -26,4 +26,13 @@ A continuació, es detallen les addicions realitzades en cada actualització:
     -   S'han afegit fotografies i fonts a totes les races
     -   S'han realitzat diverses correccions gramaticals i ortogràfiques
 
+- 4.0.
+    -   S'ha afegit la classe de **Caçador de Sang**, juntament amb les seves quatre subclasses. 
+    -   S'ha afegit un nou plugin a Obsidian per a remarcar les diferències entre els títols d'un document.
+    -   L'apartat de Normes Situacionals s'ha dividit en tres: Trampes i Perills de Masmorra, Malalties i Bogeria, Objectes.
+    -   S'ha afegit informació sobre els Perills de Masmorra (DMG, pàg.105)
+    -   S'ha afegit l'objecte màgic *Pigment de Runabrillant* (Bigby Presents - Glory of the Giants)
+    -   S'han afegit enllaços interns addicionals per a facilitar la navegació entre documents i seccions.
+    -   S'han realitzat diverses correccions gramaticals i ortogràfiques
+
 Si voleu donar suport, podeu fer-ho a través d'un donatiu a través d'aquest enllaç: https://buymeacoffee.com/micmiquel

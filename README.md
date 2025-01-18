@@ -7,6 +7,10 @@ Per a poder gaudir òptimament d'aquest material, cal seguir aquests simples pas
  3. El programa demanarà si es confia en els plugins de tercers. Cal acceptar-los per a visualitzar correctament els blocs de criatures, entre altres.
  4. Ja pots gaudir d'una gran col·lecció de material de Masmorres i Dracs en català!
 
+# Recomanacions
+
+Aquest contingut està pensat perquè puguis crear els teus personatges, les teves aventures i el teu propi contingut modificant-lo tant com vulguis. Per facilitar l'adopció de les actualitzacions que anem penjant es recomana que el contingut personal el creeu en carpetes fàcilment identificables. D'aquesta forma quan vulguis actualitzar la versió publicada d'aquest repositori només hauràs de mantenir les teves carpetes personals.
+
 # Actualitzacions
 
 - 1.0. Primera publicació
@@ -31,6 +35,15 @@ Per a poder gaudir òptimament d'aquest material, cal seguir aquests simples pas
     -   S'han afegit totes les races que mancaven (20) del Monster Manual, Volo's Guide to Monsters, Mordenkainen's Tome of Foes i Mordenkainen's: Monsters of the Multiverse: Aasimar, Canviador, Centaure, Eladrin, Elf del Mar, Firbolg, Genasi d'Aigua, Genasi d'Aire, Genasi de Foc, Genasi de Terra, Githyanki, Githzerai, Llebreu, Lluertí, Minotaure, Replicant, Sàtir, Shadar-Kai, Tritó, Yuan-Ti
     -   S'han afegit les altres versions de les races ja presents, del Monster Manual, Volo's Guide to Monsters, Mordenkainen's Tome of Foes i Mordenkainen's: Monsters of the Multiverse. Aquesta nova informació inclou les subraces de tiefling o l'humà variant, per exemple.
     -   S'han afegit fotografies i fonts a totes les races
+    -   S'han realitzat diverses correccions gramaticals i ortogràfiques
+
+- 4.0.
+    -   S'ha afegit la classe de **Caçador de Sang**, juntament amb les seves quatre subclasses. 
+    -   S'ha afegit un nou plugin a Obsidian per a remarcar les diferències entre els títols d'un document.
+    -   L'apartat de Normes Situacionals s'ha dividit en tres: Trampes i Perills de Masmorra, Malalties i Bogeria, Objectes.
+    -   S'ha afegit informació sobre els Perills de Masmorra (DMG, pàg.105)
+    -   S'ha afegit l'objecte màgic *Pigment de Runabrillant* (Bigby Presents - Glory of the Giants)
+    -   S'han afegit enllaços interns addicionals per a facilitar la navegació entre documents i seccions.
     -   S'han realitzat diverses correccions gramaticals i ortogràfiques
 
 # Contingut
