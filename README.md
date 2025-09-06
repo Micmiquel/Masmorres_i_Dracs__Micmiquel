@@ -52,6 +52,12 @@ Aquest contingut està pensat perquè puguis crear els teus personatges, les tev
         - S'han afegit les normes de classe opcionals presents al llibre Tasha's Cauldron of Everything
         - S'han realitzat diverses correccions gramaticals i ortogràfiques
 
+    - 4.2.
+        - S'han afegit les subclasses de Tal'Dorei Campaign Setting Reborn disponibles gratuïtament a D&D Beyond: Paladí del Jurament del Mar Obert, Monjo del Camí de l'Ànima de Cobalt, Guerrer Pistoler.
+        - S'han afegit els encanteris propis del Jurament del Mar Obert disponibles gratuïtament a D&D Beyond
+        - S'han afegit enllaços interns addicionals per a facilitar la navegació entre documents i seccions.
+        - S'han realitzat diverses correccions gramaticals i ortogràfiques
+
 # Contingut
 
 Aquest contingut ha estat traduït i aglutinat de manera no professional, basant-se en material de tercers, per posar-lo a la disposició de la comunitat de Masmorres i Dracs catalana, com a eina per a facilitar l'entrada a aquest joc de rol de taula no disponible en la nostra llengua.
