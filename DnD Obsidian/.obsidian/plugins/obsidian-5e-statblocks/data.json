@@ -3083,7 +3083,7 @@
           },
           {
             "name": "Variant: Aquelarre de Mort",
-            "desc": "Per un aquelarre de mort, cal reemplaçar la llista d'encanteris de l'habilitat de Màgia Compartida amb els encanteris següents: \n 1r nivell (4 caselles): [[Vida Falsa]], [[Infligir Ferides]] \n 2n nivell (3 caselles): [[Repòs Gentil]], [[Raig d'Afebliment]] \n 3r nivell (3 caselles): [[Animar Mort]], [[Reviscolar]], [[Parlar amb Morts]] \n 4t nivell (3 caselles): [[Plaga]], [[Custòdia contra la Mort]] \n 5è nivell (2 caselles): [[Contagi]], [[Aixecar Morts]] \n 6è nivell (1 casella): [[Cercle de Mort]]"
+            "desc": "Per un aquelarre de mort, cal reemplaçar la llista d'encanteris de l'habilitat de Màgia Compartida amb els encanteris següents: \n 1r nivell (4 caselles): [[Vida Falsa]], [[Infligir Ferides]] \n 2n nivell (3 caselles): [[Repòs Gentil]], [[Raig d'Afebliment]] \n 3r nivell (3 caselles): [[Animar Mort]], [[Reviscolar]], [[Parlar amb Morts]] \n 4t nivell (3 caselles): [[Plaga]], [[Custòdia contra la Mort]] \n 5è nivell (2 caselles): [[Contagi]], [[Aixecar Mort]] \n 6è nivell (1 casella): [[Cercle de Mort]]"
           },
           {
             "name": "Variant: Aquelarre de Natura",
@@ -5779,7 +5779,7 @@
           },
           {
             "name": "Variant: Aquelarre de Mort",
-            "desc": "Per un aquelarre de mort, cal reemplaçar la llista d'encanteris de l'habilitat de Màgia Compartida amb els encanteris següents: \n  1r nivell (4 caselles): [[Vida Falsa]], [[Infligir Ferides]] \n  2n nivell (3 caselles): [[Repòs Gentil]], [[Raig d'Afebliment]] \n  3r nivell (3 caselles): [[Animar Mort]], [[Reviscolar]], [[Parlar amb Morts]] \n  4t nivell (3 caselles): [[Plaga]], [[Custòdia contra la Mort]] \n  5è nivell (2 caselles): [[Contagi]], [[Aixecar Morts]] \n  6è nivell (1 casella): [[Cercle de Mort]]"
+            "desc": "Per un aquelarre de mort, cal reemplaçar la llista d'encanteris de l'habilitat de Màgia Compartida amb els encanteris següents: \n  1r nivell (4 caselles): [[Vida Falsa]], [[Infligir Ferides]] \n  2n nivell (3 caselles): [[Repòs Gentil]], [[Raig d'Afebliment]] \n  3r nivell (3 caselles): [[Animar Mort]], [[Reviscolar]], [[Parlar amb Morts]] \n  4t nivell (3 caselles): [[Plaga]], [[Custòdia contra la Mort]] \n  5è nivell (2 caselles): [[Contagi]], [[Aixecar Mort]] \n  6è nivell (1 casella): [[Cercle de Mort]]"
           },
           {
             "name": "Variant: Aquelarre de Natura",
@@ -11418,7 +11418,7 @@
         "spells": [
           "L'habilitat d'encantament del deva és Carisma (salvament d'encanteri CD 17). El deva pot conjurar innatament els següents encanteris, requerint només components verbals:",
           "A voluntat: [[Detectar Bé i Mal]]",
-          "\n1/dia cada: [[Comunar]], [[Aixecar Morts]]"
+          "\n1/dia cada: [[Comunar]], [[Aixecar Mort]]"
         ],
         "accions": [
           {
@@ -26556,7 +26556,7 @@
           "\n 2n Nivell (3 caselles): [[Restauració Menor]], Protecció de Verí, [[Arma Espiritual]]",
           "\n 3r Nivell (3 caselles): [[Crear Aliments]], [[Parlar amb Morts]], [[Esperits Guardians]]",
           "\n 4t Nivell (3 caselles): [[Divinació]], Llibertat de Moviment, guardians de faith",
-          "\n 5è Nivell (2 caselles): [[Restauració Major]], [[Aixecar Morts]]",
+          "\n 5è Nivell (2 caselles): [[Restauració Major]], [[Aixecar Mort]]",
           "\n 6è Nivell (1 casella): find the camí, harm, [[Visió Vertadera]]",
           "\n 7è Nivell (1 casella): [[Tempesta de Foc]], regenerate",
           "\n 8è Nivell (1 casella): Terratrèmol"
@@ -32913,7 +32913,7 @@
         "spells": [
           "L'habilitat d'encantament del planetar és Carisma (salvament d'encanteri CD 20). El planetar pot conjurar innatament els següents encanteris, sense requerir components materials:",
           "A voluntat: [[Detectar Bé i Mal]], [[Invisibilitat]] (només sobre ell)",
-          "\n3/dia cada: [[Barrera de Fulles]], [[Dissipar Bé i Mal]], [[Escomesa Flamant]], [[Aixecar Morts]]",
+          "\n3/dia cada: [[Barrera de Fulles]], [[Dissipar Bé i Mal]], [[Escomesa Flamant]], [[Aixecar Mort]]",
           "\n1/dia cada: [[Comunar]], [[Controlar Clima]], Plaga d'Insectes"
         ],
         "accions": [
@@ -34836,7 +34836,7 @@
         "traits": [
           {
             "name": "Equipament Especial",
-            "desc": "A més, to his sword cane, Rictavio wears a hat de disguise i a ring de mind shielding, i porta un encanteri scroll d'[[Aixecar Morts]]."
+            "desc": "A més, to his sword cane, Rictavio wears a hat de disguise i a ring de mind shielding, i porta un encanteri scroll d'[[Aixecar Mort]]."
           },
           {
             "name": "No-Morts Slayer",
@@ -45303,7 +45303,7 @@
             "desc": "El yochlol fa dos atacs cos a cos."
           },
           {
-            "name": "Cop (Mossegada in Forma d'Aranya)",
+            "name": "Cop (Mossegada en Forma d'Aranya)",
             "desc": "Atac cos a cos: +6 per donar, rang 5 u. (10 u. en forma de dimoni), un objectiu. Dany: 5 (1d6 + 2) impacte (perforant en forma d'aranya) dany + 21 (6d6) verí."
           },
           {
@@ -45312,7 +45312,7 @@
           },
           {
             "name": "Variant: Invocar Dimoni (1/Dia)",
-            "desc": "El dimoni escull què invocar i intenta una invocació màgica. AUn yochlol té un 50 % de probabilitats d'invocar un Yochlol. Un dimoni invocat apareix en un espai lliure a 60 u. del seu invocador, actua com un aliat del seu invocador, i no pot invocar altres dimonis. Roman per 1 minut, fins que ell o el seu invocador mori, o fins que el seu invocador el retira amb una acció."
+            "desc": "El dimoni escull què invocar i intenta una invocació màgica. Un yochlol té un 50 % de probabilitats d'invocar un Yochlol. Un dimoni invocat apareix en un espai lliure a 60 u. del seu invocador, actua com un aliat del seu invocador, i no pot invocar altres dimonis. Roman per 1 minut, fins que ell o el seu invocador mori, o fins que el seu invocador el retira amb una acció."
           }
         ],
         "legendary_actions": [],
@@ -46874,7 +46874,7 @@
           },
           {
             "name": "Bastó",
-            "desc": "Atac cos a cos: +3 per donar, rang 5 u., un objectiu. Dany: 4 (1d6+1) impacte, o 5 (1d8+1) impacte si usard amb both hands."
+            "desc": "Atac cos a cos: +3 per donar, rang 5 u., un objectiu. Dany: 4 (1d6+1) impacte, o 5 (1d8+1) impacte si s'usa amb ambdues mans."
           },
           {
             "name": "Fona",
@@ -51383,7 +51383,7 @@
             "3/dia cada": "[[Curar Ferides]] (a 5è nivell), [[Restauració Menor]]"
           },
           {
-            "1/dia cada": "[[Restauració Major]], [[Guarir]], [[Aixecar Morts]]"
+            "1/dia cada": "[[Restauració Major]], [[Guarir]], [[Aixecar Mort]]"
           }
         ],
         "spellsNotes": ""
@@ -57127,6 +57127,3504 @@
         ],
         "spellsNotes": ""
       }
+    ],
+    [
+      "Druida de Sang",
+      {
+        "name": "Druida de Sang",
+        "image": null,
+        "size": "Mitjà o Petit,",
+        "type": "Humanoide (qualsevol raça)",
+        "alignment": "Caòtic Maligne",
+        "ac": 14,
+        "hp": 130,
+        "hit_dice": "20d8+40",
+        "velocitat": "30 u.",
+        "stats": [
+          10,
+          14,
+          15,
+          10,
+          20,
+          11
+        ],
+        "saves": [
+          {
+            "Força": 5
+          },
+          {
+            "Constitució": 6
+          },
+          {
+            "Saviesa": 9
+          }
+        ],
+        "skillsaves": [
+          {
+            "Supervivència": 9
+          },
+          {
+            "Natura": 4
+          },
+          {
+            "Percepció": 9
+          }
+        ],
+        "languages": "Druïdic + dues llengües qualsevols",
+        "resistances": "necròtic i tallant, perforant i impacte no màgic",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Fúria de Sang",
+            "desc": "Amb una acció bonus, el druida entra en una Fúria de Sang. Durant 1 minut, al principi dels seus torns sofreix 2d4 de dany. Mentre estigui enfurismat, el druida pot afegir aquests 2d4 a un tir de dany que faci en aquell mateix torn"
+          }
+        ],
+        "spells": [
+          "El druida és un màgic de nivell 15. La seva habilitat d'encanteri és Saviesa (salvament d'encanteri CD 17, +9 per donar amb atacs d'encanteri). Té els següents encanteris de druida preparats:",
+          "Trucs (a voluntat): [[Congelació]], [[Modelar Terra]], Infestació, [[Esprai de Verí]]",
+          "1r Nivell (4 caselles): [[Absorbir Elements]], [[Curar Ferides]], [[Núvol de Boira]], [[Tronada]]",
+          "2n Nivell (4 caselles): [[Fulla Flamant]], [[Aguantar Persona]], [[Creixement d'Espines]], Passar Sense Rastre",
+          "3r Nivell (3 caselles): [[Cridar Llampec]], [[Parlar amb Plantes]], Terra Erupcionant",
+          "4t Nivell (3 caselles): [[Plaga]], [[Confusió]], Mur de Foc, Parra Agafadora",
+          "5è Nivell (2 caselles): [[Contagi]], Despertar",
+          "6è Nivell (1 casella): [[Mur d'Espines]]",
+          "7è Nivell (1 casella): [[Regenerar]]",
+          "8è Nivell (1 casella): [[Controlar Clima]]"
+        ],
+        "accions": [
+          {
+            "name": "Bastó",
+            "desc": "Atac cos a cos: +6 per donar, rang 5 u., un objectiu. Dany: 3 (1d6) impacte, o 6 (1d8 + 1) impacte si s'usa amb dues mans."
+          },
+          {
+            "name": "Canalitzar Sang",
+            "desc": "Atac d'encanteri a distància: +9 per donar, rang 15 u., un objectiu. Dany: 12 (2d6+5) necròtic, i l'objectiu ha de superar un salvament de Constitució de CD 17, o els punts vitals màxims de l'objectiu es redueixen pel dany necròtic rebut. La reducció dura fins a completar un descans llarg. L'objectiu mor si els seus punts vitals màxims arriben a 0. El druida recupera punts vitals iguals al dany necròtic inflingit."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Wereshark",
+      {
+        "image": null,
+        "name": "Home Tauró",
+        "size": "Mitjà,",
+        "type": "Humanoide (humà, canviaformes)",
+        "alignment": "Neutral Maligne",
+        "ac": 11,
+        "hp": 120,
+        "hit_dice": "14d12+22",
+        "senses": "Visió Cega 30 u. (en forma de Tauró i híbrida), Percepció passiva 12",
+        "velocitat": "30 u. (60 u. nedant en forma de tauró o 30 u. nedant en forma híbrida, 0u. caminant en forma de tauró)",
+        "stats": [
+          16,
+          13,
+          13,
+          12,
+          11,
+          9
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "Percepció": 2
+          },
+          {
+            "Sigil": 3
+          }
+        ],
+        "damage_immunities": "impacte, perforant, i tallant d'armes no màgiques ni platejades",
+        "languages": "Comú (no pot parlar en forma de tauró)",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Canviaformes",
+            "desc": "L'home tauró pot usar una acció per transformar-se en un híbrid humanoide-tauró o en un tauró, o en la seva forma original d'humanoide. Les seves estadístiques, a part de la mida i AC, són les mateixes en cada forma. L'equipament que porta o vesteix no es transforma. Torna a la seva forma original si mor."
+          },
+          {
+            "name": "Respiració Aquàtica (Forma de Tauró)",
+            "desc": "L'home tauró només pot respirar sota l'aigua, i pot aguantar la respiració per 1 hora."
+          },
+          {
+            "name": "Amfibi (Forma Híbrida o Humanoide)",
+            "desc": "L'home tauró pot respirar aire o aigua."
+          },
+          {
+            "name": "Frenesí de Sang",
+            "desc": "L'home tauró té avantatge en tirs d'atac cos a cos contra criatures que no tenen tots els punts vitals."
+          },
+          {
+            "name": "Pell Gruixuda",
+            "desc": "El AC de l'home tauró és 12 en forma híbrida o de tauró."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac (Només en forma Humanoide o Híbrida)",
+            "desc": "L'home tauró fa dos atacs, i només un d'ells pot ser una mossegada."
+          },
+          {
+            "name": "Mossegar (Tauró o Forma Híbrida Només)",
+            "desc": "Atac cos a cos: +6 per donar, rang 5 u., un objectiu. Dany: 13 (2d8 + 4) perdorant. Si l'objectiu és un humanoide, ha de superar un salvament de Constitució de CD 13 o ser maleït amb licantropia d'home tauró."
+          },
+          {
+            "name": "Trident (Només Forma Humanoide o Híbrida)",
+            "desc": "Atac cos a cos: +6 per donar, rang 5 u., o llençat 20 u./60 u., una criatura. Dany: 8 (1d6+4) perforant o 10 (1d8+4) perforant usant-lo amb dues mans."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Grindylow",
+      {
+        "image": null,
+        "name": "Grindylow",
+        "size": "Mitjà,",
+        "type": "Aberració",
+        "alignment": "Caòtica Maligna",
+        "ac": 12,
+        "hp": 55,
+        "hit_dice": "8d10+8",
+        "velocitat": "10 u., nedar 50 u.",
+        "stats": [
+          14,
+          14,
+          12,
+          7,
+          12,
+          5
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "Sigil": 6
+          },
+          {
+            "Acrobàcies": 6
+          },
+          {
+            "Atletisme": 6
+          }
+        ],
+        "languages": "Aquan, Goblin",
+        "senses": "Visió Nocturna 60 u.",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Aguantar Respiració",
+            "desc": "L'iniciat pot aguantar la seva respiració per 30 minuts."
+          },
+          {
+            "name": "Escapada Àgil",
+            "desc": "El grindylow pot retirar-se o amagar-se amb una acció bonus en cada un dels seus torns."
+          },
+          {
+            "name": "Imitació",
+            "desc": "El grindylow pot imitar veus d'Humanoide. Una criatura que escolti els sons pot descobrir que són imitacions amb un control de Saviesa (Intuïció) de CD 13 exitós."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Llança",
+            "desc": "Atac cos a cos: +4 per donar, rang 5 u., un objectiu. Dany: 5 (1d6 + 2) perforant."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +5 per donar, rang 5 u., un objectiu. Dany: 5 (1d6 + 2) perforant"
+          },
+          {
+            "name": "Tentacles",
+            "desc": "Atac cos a cos: +5 per donar, rang 15 u., un objectiu. Dany: 10 (2d6+3) impacte, i si l'objectiu és una criatura mitjana o menor també queda agafada (escapar CD 16). Mentre l'agafada dura, la criatura queda restringida, i no pot usar els tentacles en una altra criatura."
+          },
+          {
+            "name": "Núvol de Tinta (1/ descans)",
+            "desc": "Sota l'aigua pot crear un núvol de tinta en una esfera de 20 u., enfosquint-la molt per 1 minut, i després pot esprintar amb 1ab. Un corrent fort dissipa la tinta."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Wereoctopus",
+      {
+        "image": null,
+        "name": "Home Pop",
+        "size": "Mitjà,",
+        "type": "Humanoide (humà, canviaformes)",
+        "alignment": "Neutral Maligne",
+        "ac": 11,
+        "hp": 44,
+        "hit_dice": "5d8+9",
+        "senses": "Visió nocturna 30 u., Percepció passiva 12",
+        "velocitat": "30 u. (15 u. caminant i 60 u. nedant en forma de pop o híbrida)",
+        "stats": [
+          16,
+          13,
+          13,
+          12,
+          11,
+          9
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "Percepció": 2
+          },
+          {
+            "Sigil": 3
+          }
+        ],
+        "damage_immunities": "impacte, perforant, i tallant d'armes no màgiques ni platejades",
+        "languages": "Comú (no pot parlar en forma de pop)",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Canviaformes",
+            "desc": "L'home pop pot usar una acció per transformar-se en un híbrid humanoide-pop o en un pop, o en la seva forma original d'humanoide. Les seves estadístiques, a part del moviment, són les mateixes en cada forma. L'equipament que porta o vesteix no es transforma. Torna a la seva forma original si mor."
+          },
+          {
+            "name": "Respiració Aquàtica (Forma de Pop)",
+            "desc": "L'home pop només pot respirar sota l'aigua, i pot aguantar la respiració per 1 hora."
+          },
+          {
+            "name": "Amfibi (Forma Híbrida o Humanoide)",
+            "desc": "L'home pop pot respirar aire o aigua."
+          },
+          {
+            "name": "Camuflatge Aquàtica (Forma Híbrida o de Pop)",
+            "desc": "L'home pop té avantatge en controls de sigil per amagar-se sota l'aigua."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Núvol de Tinta (Només en forma de Pop o Híbrida, 1 per descans)",
+            "desc": "L'home pop emet un núvol de tinta sota l'aigua de 10u. de radi al seu voltant. L'aigua queda molt enfosquida per 1minut o fins que un corrent fort ho dissipi. Després de fer-ho pot esprintar amb una acció bonus."
+          },
+          {
+            "name": "Tentacles (Pop o Forma Híbrida Només)",
+            "desc": "Atac cos a cos: +5 per donar, rang 10 u., un objectiu. Dany: 10 (2d6 + 3) impacte. Si l'objectiu és un humanoide, ha de superar un salvament de Constitució de CD 11 o ser maleït amb licantropia d'home pop."
+          },
+          {
+            "name": "Fuet (Només Forma Humanoide o Híbrida)",
+            "desc": "Atac cos a cos: +5 per donar, rang 10 u., una criatura. Dany: 5 (1d4 + 2) tallant."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Werecrocodile",
+      {
+        "image": null,
+        "name": "Home Cocodril",
+        "size": "Mitjà,",
+        "type": "Humanoide (humà, canviaformes)",
+        "alignment": "Neutral Maligne",
+        "ac": 11,
+        "hp": 104,
+        "hit_dice": "8d12+18",
+        "velocitat": "30 u. (30 u. nedant en forma de cocodril o híbrida)",
+        "stats": [
+          15,
+          13,
+          14,
+          10,
+          11,
+          9
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "Percepció": 2
+          },
+          {
+            "Sigil": 3
+          }
+        ],
+        "damage_immunities": "impacte, perforant, i tallant d'armes no màgiques ni platejades",
+        "languages": "Comú (no pot parlar en forma de cocodril)",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Canviaformes",
+            "desc": "L'home cocodril pot usar una acció per transformar-se en un híbrid cocodril-humanoide o en un cocodril, o en la seva forma original d'humanoide. Les seves estadístiques, a part del AC, són les mateixes en cada forma. L'equipament que porta o vesteix no es transforma. Torna a la seva forma original si mor."
+          },
+          {
+            "name": "Aguantar Respiració",
+            "desc": "L'home cocodril pot aguantar la seva respiració per 15 minuts."
+          },
+          {
+            "name": "Pell Escamosa",
+            "desc": "L'home cocodril té 12 de AC en forma híbrida o de cocodril."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac (Només en forma Humanoide o Híbrida)",
+            "desc": "L'home cocodril fa dos atacs: un amb la seva mossegada i un amb les seves urpes o llança."
+          },
+          {
+            "name": "Mossegada (Cocodril o Forma Híbrida Només)",
+            "desc": "Atac cos a cos: +4 per donar, rang 5 u., un objectiu. Dany: 6 (1d8 + 2) perforant. Si l'objectiu és un humanoide, ha de superar un salvament de Constitució de CD 12 o ser maleït amb licantropia d'home cocodril."
+          },
+          {
+            "name": "Urpes (Forma Híbrida Només)",
+            "desc": "Atac cos a cos: +4 per donar, rang 5 u., una criatura. Dany: 7 (2d4 + 2) tallant."
+          },
+          {
+            "name": "Llança (Només Forma Humanoide o Híbrida)",
+            "desc": "Cos a cos o Atac a Distància: +4 per donar, rang 5 u. o rang 20/60 u., una criatura. Dany: 5 (1d6 + 2) perforant, o 6 (1d8 + 2) perforant si s'usa amb les dues mans per fer un atac cos a cos."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Infestation Swarm",
+      {
+        "image": null,
+        "name": "Eixam Infestant",
+        "size": "Mitjà,",
+        "type": "eixam de Monstruositats diminutes",
+        "alignment": "Amoral",
+        "ac": 14,
+        "hp": 44,
+        "hit_dice": "8d8+8",
+        "velocitat": "0 u., volar 30 u.",
+        "stats": [
+          9,
+          18,
+          12,
+          5,
+          12,
+          3
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_resistances": "impacte, perforant, tallant",
+        "condition_immunities": "encantat, espantat, paralitzat, petrificat, estirat, restringit, atordit",
+        "senses": "",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Eixam",
+            "desc": "L'eixam pot ocupar l'espai d'una altra criatura i vice-versa, i l'eixam pot moure's a través de qualsevol obertura suficientment gran per a un insecte diminut. L'eixam no pot recuperar punts vitals o guanyar punts vitals temporals."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +6 per donar, rang 0 u., un objectiu dins l'espai de l'eixam. Dany: 21 (6d6) perforant, o 10 (3d6) perforant si l'eixam té la meitat dels seus punts vitals o menys."
+          },
+          {
+            "name": "Infestar (Recàrrega 6)",
+            "desc": "Una criatura a l'espai de l'eixam ha de superar un salvament de Constitució de CD 14 o ser infestat per l'eixam. L'eixam llavors desapareix dins el cos de l'objectiu, deixant-lo incapacitat i agafant control del seu cos, sense treure la consciència de l'objectiu. L'eixam no pot ser l'objectiu de cap atac, encanteri o altre efecte, i manté les seves puntuacions de Carisma, Saviesa i Intel·ligència, però usa les estadístiques de l'objectiu per a la resta, excepte el seu coneixement, proficiències i habilitats de classe. La infestació dura fins que el cos arribi a 0 punts vitals, l'eixam ho acabi amb una acció bonus o l'eixam sigui expulsat amb un efecte que curi malalties, com l'encanteri [[Restauració Menor]]. Al acabar la infestació, l'eixam apareix en un espai lliure a 5 u. del cos. L'objectiu és immune a aquesta habilitat de l'eixam durant les properes 24 hores al acabar la infestació o superar el salvament."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "Homebrew"
+      }
+    ],
+    [
+      "Gulthias Tree",
+      {
+        "image": null,
+        "name": "Arbre Vampíric",
+        "source": "Homebrew",
+        "type": "Planta",
+        "subtype": "",
+        "size": "Gegant,",
+        "alignment": "Neutral Maligne",
+        "hp": 500,
+        "hit_dice": "30d10 + 200",
+        "ac": 15,
+        "velocitat": "5 u.",
+        "stats": [
+          19,
+          7,
+          12,
+          10,
+          10,
+          8
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "impacte, perforant, psíquic",
+        "damage_vulnerabilities": "foc",
+        "condition_immunities": "encegat, encantat, exhaustió, ensordit, espantat, paralitzat, petrificat, enverinat",
+        "saves": [
+          {
+            "Força": "6"
+          },
+          {
+            "Constitució": "6"
+          }
+        ],
+        "skillsaves": [
+          {
+            "Percepció": "6"
+          },
+          {
+            "Sigil": "7"
+          }
+        ],
+        "senses": "Sentit del Tremolor 100 u., Percepció passiva 10",
+        "languages": "Primordial",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Mort Falsa",
+            "desc": "Si arriba a 0 punts vitals aparenta morir, a no ser que es superi un control d'Intel·ligència (Natura) de CD 15, que permet saber que cal arrencar la sota per matar-lo, o recuperarà 1 punt vital per dia, tornant a ser conscient al arribar als seus punts vitals màxims"
+          },
+          {
+            "name": "Últim Esforç",
+            "desc": "En arribar a la meitat dels seus punts vitals, la seva CA baixa de 15 a 12, i és capaç de fer accions i accions llegendàries, mentre que abans no."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "Fa dos atacs cos a cos constrenyent amb les seves arrels, i usa Presència Esfereïdora."
+          },
+          {
+            "name": "Constrènyer",
+            "desc": "Atac cos a cos +4 per donar, rang 10 u., un objectiu. Dany: 11 (2d6 + 4) impacte. Agafa (CD 12 per escapar)."
+          },
+          {
+            "name": "Presència Esfereïdora (\n3/dia)",
+            "desc": "Aquelles criatures sobre l'arbre o que estiguin en contacte amb les seves arrels han de superar un salvament de Saviesa de CD 14 o ser espantats per 1 minut. Cada criatura espantada pot repetir el salvament al final del seu torn. Si es supera s'hi guanya immunitat per 24 hores."
+          },
+          {
+            "name": "Invocar Eixam",
+            "desc": "L'arbre invoca un eixam d'insectes, aranyes, rates o corbs, de forma aleatòria. Apareix a 5 u. de l'arbre en un espai lliure, i actuen amb iniciativa pròpia."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [
+          {
+            "name": "Eixam Protector (2 accions)",
+            "desc": "Utilitza Invocar Eixam."
+          },
+          {
+            "name": "Constrènyer",
+            "desc": "Constrèny una criatura en rang."
+          }
+        ],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "El Gos Nonell",
+      {
+        "image": null,
+        "name": "El Gos Nonell",
+        "size": "Gran,",
+        "type": "Monstruositat",
+        "alignment": "Neutral",
+        "ac": 16,
+        "hp": 85,
+        "hit_dice": "10d10+30",
+        "velocitat": "50 u.",
+        "stats": [
+          18,
+          18,
+          16,
+          5,
+          12,
+          8
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "Percepció": 4
+          },
+          {
+            "Sigil": 6
+          }
+        ],
+        "damage_immunities": "Fred",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 14",
+        "damage_resistances": "Foc",
+        "languages": "",
+        "cr": "7",
+        "traits": [
+          {
+            "name": "Gran Oïda i Olfacte",
+            "desc": "El Gos Nonell té avantatge en controls de Saviesa (Percepció) que es basin en oïda o olfacte."
+          },
+          {
+            "name": "Camuflatge Nivi",
+            "desc": "El Gos Nonell té avantatge en controls de Destresa (Sigil) fets per amagar-se en terreny nevat."
+          },
+          {
+            "name": "Portador de la Neu",
+            "desc": "El Gos Nonell pot aguantar temperatures de fins a -75º sense problema i no és afectat per terreny difícil causat per gel o neu."
+          },
+          {
+            "name": "Maledicció de la Cursa",
+            "desc": "El Gos Nonell pot esprintar amb una acció bonus. A més, al passar a 5 u. d'una criatura, aquesta rep 1d4 dany de fred, una vegada per torn."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +7 per donar, rang 5 u., un objectiu. Dany: 11 (2d6 + 4) perforant + 2d6 dany de fred. Si l'objectiu és una criatura, ha de superar un salvament de Força de CD 14 o caure estirada."
+          },
+          {
+            "name": "Alè de l'Hivern (Recàrrega 5-6)",
+            "desc": "El Gos Nonell exhala una línia de vent frígid de 30 u. Cada criatura dins la línia ha de superar un salvament de Destresa de CD 13 o rebre 19 (3d12) dany de fred i tenir la seva velocitat reduïda en 10 u. durant el seu proper torn. Una criatura que superi el salvament només rep la meitat del dany i la seva velocitat no és reduïda."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [
+          {
+            "name": "Sublimació Protectora",
+            "desc": "Al rebre dany de foc, el cos del Gos Nonell genera un núvol de vapor i neu a 30 u. d'ell, que dura fins el final del seu proper torn i enfosqueix altament l'àrea. En Nonell no és afectat per aquesta manca de visibilitat."
+          }
+        ],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Bruixa",
+      {
+        "image": null,
+        "name": "Bruixa",
+        "size": "Mitjana,",
+        "type": "Humanoide",
+        "alignment": "Legal Maligna",
+        "ac": 11,
+        "hp": 58,
+        "hit_dice": "9d8+18",
+        "velocitat": "30 u.",
+        "stats": [
+          8,
+          12,
+          14,
+          11,
+          16,
+          14
+        ],
+        "saves": [
+          {
+            "carisma": 5
+          },
+          {
+            "saviesa": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Arcana": 3
+          },
+          {
+            "Història": 6
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "",
+        "languages": "Català, Infernal, i una llengua més",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Fortalesa Embruixada (Es recarrega després d'un descans curt o llarg)",
+            "desc": "Si la bruixa rep 12 punts de dany o menys que la farien arribar a 0 punts vitals, queda en comptes reduïda a 1 punt vital."
+          }
+        ],
+        "spells": [
+          "La bruixa és una màgica de 7è nivell. La seva habilitat d'encanteri és Saviesa (salvament d'encanteri CD 14, +6 per donar amb atacs d'encanteri). La bruixa té els següents encanteris preparats:",
+          "Trucs (a voluntat): [[Llums Dansants]], [[Taxa Necròtica]], [[Il·lusió Menor]], [[Esprai de Verí]]",
+          "\n 1r Nivell (4 caselles): [[Raig de Malaltia]], [[Disfressar-se]], [[Armadura Maga]], [[Dormir]]",
+          "\n 2n Nivell (3 caselles): [[Silenci]], [[Raig d'Afebliment]], [[Força Fantasmal]]",
+          "\n 3r Nivell (3 caselles): [[Contra-encanteri]], [[Maleir]]*",
+          "\n 4t Nivell (1 casella): [[Invocar Dimoni Major]]"
+        ],
+        "accions": [
+          {
+            "name": "Bastó",
+            "desc": "Atac cos a cos: +2 per donar, rang 5 u., un objectiu. Dany: 2 (1d6-1) impacte, o 3 (1d8-1) impacte si s'usa amb les dues mans."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Comte Arnau",
+      {
+        "image": null,
+        "name": "Comte Arnau",
+        "source": "MicMiquel - Set de Mitologia Catalana",
+        "type": "No-Mort",
+        "subtype": "",
+        "size": "Mitjà,",
+        "alignment": "Caòtic Maligne",
+        "hp": 134,
+        "hit_dice": "20d8 + 53",
+        "ac": 20,
+        "velocitat": "30 u.",
+        "stats": [
+          20,
+          12,
+          18,
+          16,
+          14,
+          19
+        ],
+        "damage_immunities": "foc, verí, necròtic",
+        "damage_resistances": "fred, impacte, perforant, tallant d'atacs no màgics ni platejats",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "encantat, espantat, enverinat",
+        "saves": [
+          {
+            "Destresa": "6"
+          },
+          {
+            "Constitució": "9"
+          },
+          {
+            "Carisma": "9"
+          }
+        ],
+        "skillsaves": [
+          {
+            "Percepció": "12"
+          }
+        ],
+        "senses": "Visió Nocturna 120 u., Percepció passiva 22",
+        "languages": "Comú, Infernal, telepatia 120 u.",
+        "cr": "16",
+        "traits": [
+          {
+            "name": "Brides Infernals",
+            "desc": "El Comte Arnau vesteix esperons que són part d'unes brides infernals, que li permeten invocar el seu company malson amb una acció."
+          },
+          {
+            "name": "Resistència Màgica",
+            "desc": "El Comte Arnau té avantatge en salvaments contra encanteris i altres efectes màgics."
+          },
+          {
+            "name": "Resistència Llegendària (3/Dia)",
+            "desc": "Si el Comte Arnau falla un salvament, pot escollir superar-lo."
+          },
+          {
+            "name": "Debilitat Solar",
+            "desc": "Mentre estigui sota llum solar, el Comte Arnau té desavantatge en tirs d'atac, controls d'habilitat, i salvaments."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "El Comte Arnau fa tres atacs d'Espasa de les Encantades. També usa una Ordre Infernal o Ordre Terrorífica."
+          },
+          {
+            "name": "Espasa de les Encantades",
+            "desc": "Atac cos a cos +10 per donar, rang 10 u., un objectiu. Dany: 11 (1d12 + 5) tallant + 16 (3d10) foc. Si aquest dany mata una criatura amb ànima, l'espasa porta l'ànima a l'Infern i només conjurar Resurrecció Vertadera al cos original de la criatura pot restaurar-la a la vida."
+          },
+          {
+            "name": "Ordre Infernal",
+            "desc": "Cada aliat del Comte Arnau a 60 u. d'ell no pot ser encantat o espantat fins el final del proper torn del Comte Arnau."
+          },
+          {
+            "name": "Ordre Terrorífica",
+            "desc": "Cada criatura a 60 u. del Comte Arnau que no sigui un Esperit Maligne ha de superar un salvament de Carisma de CD 17 o ser espantada del Comte Arnau per 1 minut. Una criatura pot repetir el salvament al final dels seus torns, acabant amb l'efecte si té èxit. Una criatura que fa un salvament exitós és immune a les Ordres Terrorífiques del Comte Arnau per 24 hores."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [
+          {
+            "name": "«L'espasa del comte Arnau fereix sempre que la trau»",
+            "desc": "El Comte Arnau desembaina la seva espasa, i tos aquells a 30 u. han de superar un salvament de Constitució de DC 18 o rebre 2d8 dany necròtic."
+          },
+          {
+            "name": "Bossa de Prestill (2 accions)",
+            "desc": "El comte s'aboca mondes per sobre el cos, que es fonen i taponen ferides, fent que recuperi 20 punts vitals."
+          },
+          {
+            "name": "Pedra de Presill (Costa 2 Accions)",
+            "desc": "El Comte toca una criatura amb la seva pedra. Aquesta criatura ha de superar un salvament de Carisma de DC 17 o caure sota els efectes de [[Comandar]] per una ronda. Si es supera el salvament o s'acaben els efectes, s'és immune a la pedra per 24 hores."
+          }
+        ],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "La Pesanta",
+      {
+        "image": null,
+        "name": "La Pesanta",
+        "size": "Mitjana,",
+        "type": "Monstruositat",
+        "alignment": "Legal Maligna",
+        "ac": 14,
+        "hp": 82,
+        "hit_dice": "12d8+24",
+        "velocitat": "40 u.",
+        "stats": [
+          17,
+          18,
+          14,
+          10,
+          14,
+          11
+        ],
+        "saves": [
+          {
+            "destresa": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Sigil": 7
+          },
+          {
+            "Acrobàcies": 7
+          }
+        ],
+        "senses": "Visió Nocturna 60 u.",
+        "cr": "8",
+        "traits": [
+          {
+            "name": "Esmunyedissa",
+            "desc": "La Pesanta es pot moure per espais tan estrets com 2,5 cm d'ample sense estrènyer-se."
+          },
+          {
+            "name": "Sigil Ombrívol",
+            "desc": "Mentre estigui en llum lleu o foscor, La Pesanta pot amagar-se amb una acció bonus."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac ",
+            "desc": "La Pesanta fa dos atacs: una mossegada i un amb les potes."
+          },
+          {
+            "name": "Potes de Ferro",
+            "desc": "Atac cos a cos: +6 per donar, rang 5 u., un objectiu. Dany: 16 (3d8+3) impacte."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +7 per donar, rang 5 u., un objectiu. Dany: (1d8+7) perforant."
+          },
+          {
+            "name": "Imposar Malsons",
+            "desc": "La Pesanta tria una criatura que vegi a 60 u. d'ell. Si l'objectiu pot veure-la, ha de superar un salvament de Saviesa de CD 13 contra aquesta màgia o rebre 28 (4d12+2) dany psíquic, la meitat si es supera. Si l'objectiu falla el salvament per 5 o més, també cau adormit per la mateixa duració, a no ser que una criatura usi una acció per a despertar-lo sacsejant-lo o rebi dany. Un objectiu que supera el salvament és immune a aquesta habilitat durant les properes 24 hores."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "La Molsosa",
+      {
+        "name": "La Molsosa",
+        "image": null,
+        "size": "Mitjà,",
+        "type": "Fey",
+        "alignment": "Caòtic Neutral",
+        "ac": 15,
+        "hp": 150,
+        "hit_dice": "20d8+60",
+        "velocitat": "30 u.",
+        "stats": [
+          14,
+          10,
+          16,
+          12,
+          20,
+          11
+        ],
+        "saves": [
+          {
+            "Força": 6
+          },
+          {
+            "Constitució": 7
+          },
+          {
+            "Saviesa": 9
+          }
+        ],
+        "skillsaves": [
+          {
+            "Supervivència": 9
+          },
+          {
+            "Natura": 5
+          },
+          {
+            "Percepció": 9
+          }
+        ],
+        "languages": "Silvana i comú",
+        "damage_resistances": "foc i elèctric",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Fúria del Bosc",
+            "desc": "Si la molsosa veu foc a 60 u. a l'inici del seu torn, tira 1d6. \n1-2 La Molsosa queda espantada fins a l'inici del seu proper torn \n3-4 La Molsosa usarà la seva acció d'aquest torn per apagar les flames \n5-6 La Molsosa s'enfurisma farà els seus atacs amb avantatge durant aquest torn"
+          },
+          {
+            "name": "Resistència Màgica",
+            "desc": "La Molsosa té avantatge en salvaments contra encanteris i altres efectes màgics."
+          },
+          {
+            "name": "Parlar amb Bèsties i Plantes",
+            "desc": "La Molsosa pot comunicar-se amb Bèsties i Plantes com si compartissin una llengua."
+          },
+          {
+            "name": "[[Gambada d'Arbre]]",
+            "desc": "Un cop en el seu torn, la Molsosa pot usar 10 u. del seu moviment per entrar màgicament dins un arbre viu en el seu rang i emergir d'un segon arbre viu a 60 u. del primer, apareixent en un espai lliure a 5 u. del segon arbre. Ambdós arbres ha de be Grans o majors."
+          }
+        ],
+        "spells": [
+          "L'habilitat innata d'encantament de la molsosa és Saviesa (salvament d'encanteri CD 17, +9 per donar amb atacs d'encanteri). Pot conjurar innatament els següents encanteris:",
+          "A voluntat: [[Creixement d'Espines]], [[Crear o Destruir Aigua]], [[Núvol de Boira]]",
+          "3/dia cada: [[Tempesta d'Aiguaneu]], [[Curar Ferides]], [[Creixement Vegetal]]",
+          "1/dia cada: [[Insecte Gegant]], [[Despertar]], [[Mur d'Espines]]"
+        ],
+        "accions": [
+          {
+            "name": "Patacada",
+            "desc": "Atac cos a cos: +6 per donar, rang 5 u., un objectiu. Dany: 9 (2d6 + 2) impacte."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Simiot",
+      {
+        "image": null,
+        "name": "Simiot",
+        "size": "Mitjà,",
+        "type": "Humanoide",
+        "alignment": "",
+        "ac": 10,
+        "hp": 33,
+        "hit_dice": "6d8+6",
+        "velocitat": "30 u.",
+        "stats": [
+          17,
+          11,
+          14,
+          7,
+          18,
+          12
+        ],
+        "saves": [
+          {
+            "Atletisme": 6
+          }
+        ],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 14",
+        "languages": "Comú",
+        "cr": "4",
+        "traits": [],
+        "spells": [
+          "L'habilitat innata d'encantament del simiot és Saviesa. Pot conjurar innatament els següents encanteris de druida, sense requerir components materials.",
+          {
+            "A voluntat": "[[Tronada]]"
+          },
+          {
+            "3/dia cada": "[[Ona Tronadora]], [[Creixement d'Espines]], [[Ràfega de Vent]]"
+          },
+          {
+            "1/dia cada": "[[Cridar Llampec]]"
+          }
+        ],
+        "accions": [
+          {
+            "name": "Patac",
+            "desc": "Atac cos a cos: +6 per donar, rang 5 u., un objectiu. Dany: 10 (2d6+3) impacte."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Dona d'Aigua",
+      {
+        "image": null,
+        "name": "Dona d'Aigua",
+        "size": "Mitjana,",
+        "type": "Fey",
+        "alignment": "Neutral",
+        "ac": 14,
+        "hp": 97,
+        "hit_dice": "13d10+26",
+        "velocitat": "30 u., nedar 50 u.",
+        "stats": [
+          9,
+          18,
+          15,
+          10,
+          14,
+          20
+        ],
+        "saves": [
+          {
+            "Saviesa": "5"
+          },
+          {
+            "Carisma": "8"
+          }
+        ],
+        "skillsaves": [
+          {
+            "Persuasió": "8"
+          }
+        ],
+        "senses": "Visió Nocturna 60 u.",
+        "cr": "7",
+        "traits": [
+          {
+            "name": "Amfibi",
+            "desc": "La dona d'aigua pot respirar aire i aigua."
+          },
+          {
+            "name": "Resistència Màgica",
+            "desc": "La dona d'aigua té avantatge en salvaments contra encanteris i altres efectes màgics."
+          },
+          {
+            "name": "Roba de la Dona d'Aigua",
+            "desc": "La dona d'aigua queda encantada per a aquella persona que li prengui una peça de roba, i no pot atacar-la voluntàriament. Es pot intentar treure-li gastant una acció per a fer un control de Destresa de DC20, si s'està a 5 u. d'ella."
+          }
+        ],
+        "spells": [
+          "L'habilitat innata d'encantament de la dona d'aigua és Carisma (salvament d'encanteri CD 16). La dona d'aigua pot conjurar innatament els següents encanteris, sense requerir components materials:",
+          "A voluntat: [[Formar Aigua]], [[Crear o Destruir Aigua]], [[Congelació]]",
+          "3/dia cada: [[Controlar Aigua]], [[Parra Agafadora]]",
+          "1/dia cada: [[Xuclador]]"
+        ],
+        "accions": [
+          {
+            "name": "Encant Fey",
+            "desc": "La dona d'aigua tria un Humanoide que pugui veure a 30 u. d'ella. Si l'objectiu pot veure la dona d'aigua, ha de superar un salvament de Saviesa de CD 16 o ser màgicament encantat. La criatura encantada veu la dona d'aigua com una amiga de confiança a qui fer cas i protegir. Tot i que l'objectiu no està sota control de la dona d'aigua, veu les seves peticions o accions en la manera més favorable. Cada cop que la dona d'aigua o els seus aliats fan res danyós a l'objectiu, aquest pot repetir el salvament, acabant amb l'efecte si té èxit. Si no, l'efecte dura 24 hores o fins que la dona d'aigua mori, estigui en un pla d'existència diferent al de l'objectiu, o acabi l'efecte amb una acció bonus. Si el salvament d'un objectiu té èxit, l'objectiu és immune a l'Encant Fey de la dona d'aigua durant les properes 24 hores. La dona d'aigua no pot tenir més d'un Humanoide encantat a la vegada."
+          },
+          {
+            "name": "Esgarrapada",
+            "desc": "Atac cos a cos: +7 per donar, rang 5 u., un objectiu. Dany: 6 (1d4+4) impacte"
+          },
+          {
+            "name": "Remolí (Recàrrega 5-6)",
+            "desc": "Si està dins de l'aigua, aquesta s'arremolina al voltant de la dona d'aigua. Cada criatura a 20 u. d'ella ha de superar un salvament de Destresa de CD 16 o rebre 8d6 dany de fred i caure estirat"
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Dip",
+      {
+        "image": null,
+        "name": "Dip",
+        "size": "Mitjà,",
+        "type": "Esperit Maligne",
+        "alignment": "Legal Maligne",
+        "ac": 15,
+        "hp": 45,
+        "hit_dice": "7d8+14",
+        "velocitat": "50 u.",
+        "stats": [
+          17,
+          12,
+          15,
+          6,
+          13,
+          6
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "Percepció": 4
+          }
+        ],
+        "damage_resistances": "necròtic",
+        "senses": "Visió Nocturna 60 u.",
+        "languages": "Entén Infernal però no pot parlar-lo",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Gran Oïda i Olfacte",
+            "desc": "El dip té avantatge en controls de Saviesa (Percepció) que es basin en oïda o olfacte."
+          },
+          {
+            "name": "Tàctiques de Rajada",
+            "desc": "El dip té avantatge en un tir d'atac contra una criatura si almenys un dels aliats del dip és a 5 u. de la criatura i l'aliat no està incapacitat."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Mossegada Vampírica",
+            "desc": "Atac cos a cos: +5 per donar, rang 5 u., un objectiu. Dany: 7 (1d8 + 3) perforant + 5 (2d4) necròtic. El dip recupera un nombre de punts vitals igual al dany necròtic inflingit"
+          },
+          {
+            "name": "Ulls Dimoníacs",
+            "desc": "El dip fixa la seva mirada brillant en una criatura a 60 u. que estigui en llum lleu o foscor. Aquesta criatura ha de superar un salvament de Saviesa de CD 12 o ser espantada per 1 minut. Una criatura pot repetir el salvament al final dels seus torns, acabant amb l'efecte si té èxit. Si el salvament d'una criatura té èxit o l'efecte acaba per ella, la criatura és immune als Ulls Dimoníacs de tot dip durant les properes 24 hores"
+          },
+          {
+            "name": "Xuclar Sang (Recàrrega 5-6)",
+            "desc": "Després de realitzar una Mossegada Vampírica, el dip pot xuclar la sang de l'objectiu, forçant-lo a fer un salvament de Constitució de CD 12. La criatura rep (6d6) dany necròtic si falla el salvament, o la meitat si el supera. Després el dip recupera un nombre de punts vitals igual al dany necròtic inflingit."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Serpent",
+      {
+        "image": null,
+        "name": "Serpent",
+        "size": "Mitjà,",
+        "type": "Drac",
+        "alignment": "Neutral",
+        "ac": 18,
+        "hp": 97,
+        "hit_dice": "13d8+39",
+        "velocitat": "60 u., volar 60 u., nedar 60 u.",
+        "stats": [
+          18,
+          20,
+          17,
+          10,
+          18,
+          10
+        ],
+        "saves": [
+          {
+            "constitució": 6
+          },
+          {
+            "saviesa": 7
+          },
+          {
+            "carisma": 3
+          }
+        ],
+        "skillsaves": [],
+        "damage_resistances": "impacte, perforant, i tallant d'armes no màgiques",
+        "damage_immunities": "",
+        "senses": "Visió Cega 30 u.",
+        "languages": "",
+        "cr": "6",
+        "traits": [
+          {
+            "name": "Armes Màgiques",
+            "desc": "Els atacs d'armes del serpent són màgics."
+          },
+          {
+            "name": "Regeneració",
+            "desc": "Si té la seva pedra fixada al front, recupera 15 punts de vida a l'inici dels seus torns. Només mor si comença el torn amb 0 punts vitals i no es regenera."
+          }
+        ],
+        "spells": [
+          "L'habilitat d'encantament del serpent és Saviesa (salvament d'encanteri CD 14). Innatament pot conjurar els següents encanteris, requerint només components verbals:",
+          "A voluntat: [[Respiració Aquàtica]], [[Crear o Destruir Aigua]]",
+          "\n3/dia: [[Marejada]]",
+          "\n1/dia: [[Xuclador]]"
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "El serpent fa dos atacs: un amb la seva mossegada i un amb constrènyer. Pot substituir un dels dos atacs amb la conjuració d'un encanteri."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +8 per donar, rang 5 u., una criatura. Dany: 8 (1d6 + 5) perforant, i l'objectiu ha de superar un salvament de Constitució de CD 13 o rebre 3d6 de dany verinós i ser enverinat fins el final del seu proper torn. Si es supera el salvament, només es rep la meitat del dany de verí i no s'és enverinat."
+          },
+          {
+            "name": "Constrènyer",
+            "desc": "Atac cos a cos: +7 per donar, rang 10 u., una criatura Mitjana o menor. Dany: 10 (2d6 + 4) impacte, i l'objectiu és agafat (escapar CD 15). Fins que deixi d'agafar, l'objectiu és restringit, i el serpent no pot constrènyer un altre objectiu."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Fantasma de l'Abadessa",
+      {
+        "image": null,
+        "name": "Fantasma de l'Abadessa",
+        "size": "Mitjà,",
+        "type": "No-Mort",
+        "alignment": "Legal Maligne",
+        "ac": 12,
+        "hp": 67,
+        "hit_dice": "9d8 + 27",
+        "velocitat": "0 u., volar 50 u. Pot flotar.",
+        "stats": [
+          7,
+          12,
+          16,
+          15,
+          15,
+          15
+        ],
+        "saves": [
+          {
+            "Intel·ligència": 5
+          },
+          {
+            "Saviesa": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Religió": 5
+          }
+        ],
+        "damage_resistances": "àcid, foc, elèctric, so, impacte, perforant, i tallant d'armes no màgiques",
+        "damage_immunities": "fred, necròtic, verí",
+        "condition_immunities": "encantat, exhaustió, espantat, agafat, paralitzat, petrificat, enverinat, estirat, restringit",
+        "senses": "Visió Nocturna 60 u.",
+        "languages": "qualsevol llengua que coneixia en vida",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Moviment Incorpori",
+            "desc": "El fantasma es pot moure a través d'altres criatures i objectes com si fóssin terreny difícil. Rep 5 (1d10) dany de força si acaba el torn dins un objecte."
+          },
+          {
+            "name": "Sensitivitat Solar",
+            "desc": "Mentre estigui sota llum solar, l'abadesa té desavantatge en tirs d'atac, a més de controls de Saviesa (Percepció) basats en la vista."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Toc Marcidor",
+            "desc": "Atac cos a cos: +5 per donar, rang 5 u., un objectiu. Dany: 17 (4d6 + 3) dany necròtic."
+          },
+          {
+            "name": "Visió Horrorífica",
+            "desc": "Cada criatura no No-Mort a 60 u. de l'Abadessa que la pugui veure ha de superar un salvament de Saviesa de CD 13 o ser espantada per 1 minut. Un objectiu espantat pot repetir el salvament al final dels seus torns, deixant d'estar espantat si el supera. Si el salvament d'un objectiu té èxit o l'efecte acaba per ell, l'objectiu és immune a la Visió Horrorífica d'aquest fantasma durant les properes 24 hores."
+          },
+          {
+            "name": "Empenta Telecinètica",
+            "desc": "L'abadessa tria una criatura o objecte no portat a 30 u. d'ell. Una criatura ha de ser Mitjana o menor per ser afectada per aquesta màgia, i un objecte pot pesar fins a 70 kg. Si l'objectiu és una criatura, l'abadessa fa un control de Carisma contra un control de Força de l'objectiu. Si l'abadessa guanya, llença l'objectiu fins a 30 u. en qualsevol direcció, incloent cap amunt. Si l'objectiu llavors entra en contacte amb una superfície dura o objecte pesant, l'objectiu rep 1d6 dany per cada 10 u. que és mogut. Si l'objectiu és un objecte que no està sent vestit o portat, l'abadessa el llença fins a 30 u. en qualsevol direcció. L'abadessa pot usar l'objecte com una arma de rang, atacant una criatura en el camí de l'objecte (+4 per donar) i causant 5 (2d4) impacte si dona."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Pericó",
+      {
+        "image": null,
+        "name": "Pericó",
+        "size": "Gran,",
+        "type": "Elemental",
+        "alignment": "Caòtic Neutral",
+        "ac": 19,
+        "hp": 210,
+        "hit_dice": "20d10+100",
+        "velocitat": "40 u.",
+        "stats": [
+          26,
+          10,
+          21,
+          9,
+          13,
+          9
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_immunities": "foc, verí, impacte, perforant, i tallant d'armes no màgiques",
+        "condition_immunities": "espantat, petrificat, enverinat",
+        "senses": "Visió Nocturna 60 u., Visió Cega 30 u.",
+        "languages": "Comú",
+        "cr": "16",
+        "traits": [
+          {
+            "name": "Absorció de Foc",
+            "desc": "Cada cop que en Pericó és sotmès a dany de foc, no rep dany i recupera un nombre de punts vitals igual al dany de foc inflingit."
+          },
+          {
+            "name": "Forma Immutable",
+            "desc": "En Pericó és immune a qualsevol encanteri o efecte que alteraria la seva forma."
+          },
+          {
+            "name": "Armes Màgiques",
+            "desc": "Els atacs d'arma d'en Pericó són màgics."
+          },
+          {
+            "name": "Ira del Foc",
+            "desc": "Quan, arriba a 150 punts vitals, la seva mida es redueix a Mitjana. Quan arriba a 100 punts vitals, la seva mida es redueix a petita, quan arriba a 50 punts vitals, la seva mida es torna Diminuta. Cada cop que baixa de mida, el dany dels seus atacs es redueix en un dau, i la seva velocitat es redueix per 10 u. A més, com menys punts vitals té, menys bestial i més raonable es torna."
+          },
+          {
+            "name": "Monstre de Setge",
+            "desc": "En pericó fa el doble de dany a objectes i estructures."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "En Pericó fa tres atacs cos a cos. Pot substituir dos d'atacs atacs per Escopir Fum"
+          },
+          {
+            "name": "Patac",
+            "desc": "Atac cos a cos: +13 per donar, rang 5 u., un objectiu. Dany: 30 (4d10 + 8) impacte."
+          },
+          {
+            "name": "Escopir Fum",
+            "desc": "En Pericó exhala un con de fum negre espés d'una mida igual a la seva velocitat actual. Les criatures dins del con han de superar un salvament de Constitució o rebre 4d12 dany de foc i ser encegades per 1 minut. Si superen el salvament, només reben la meitat del dany i no són encegades. Una criatura encegada pot repetir el salvament al final del seu torn, acabant amb l'efecte si té èxit. El fum roman per 1 minut, enfosquint l'àrea, i es dissipa amb un vent fort."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Gegant de la Neu",
+      {
+        "image": null,
+        "name": "Gegant de la Neu",
+        "size": "Enorme,",
+        "type": "Gegant",
+        "alignment": "Neutral",
+        "ac": 13,
+        "hp": 105,
+        "hit_dice": "10d12+40",
+        "velocitat": "40 u.",
+        "stats": [
+          20,
+          7,
+          19,
+          8,
+          9,
+          7
+        ],
+        "saves": [
+          {
+            "constitució": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Atletisme": 8
+          },
+          {
+            "Percepció": 2
+          }
+        ],
+        "damage_immunities": "fred",
+        "damage_resistances": "perforant",
+        "damage_vulnerabilities": "foc",
+        "senses": "Percepció passiva 12",
+        "languages": "Gegant, comú",
+        "cr": "6",
+        "traits": [
+          {
+            "name": "Ésser de Neu",
+            "desc": "Cada cop que el Gegant de la Neu sigui sotmès a dany de fred, no rep dany, i recupera un nombre de punts vitals igual al dany de fred inflingit."
+          },
+          {
+            "name": "La Flama de la Vida",
+            "desc": "Si el Gegant de la Neu és sotmès a dany de foc, pot fer els atacs del seu proper torn amb avantatge."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "El gegant fa dos patacs."
+          },
+          {
+            "name": "Patac",
+            "desc": "Atac cos a cos: +8 per donar, rang 10 u., un objectiu. Dany: 21 (2d10 + 5) impacte + 1d10 fred."
+          },
+          {
+            "name": "Bola de Neu",
+            "desc": "Atac a Distància: +8 per donar, rang 60/240 u., un objectiu. Dany: 24 (2d12 + 5) impacte + 1d12 fred."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Pare Llop",
+      {
+        "image": null,
+        "name": "Pare Llop",
+        "size": "Mitjà,",
+        "type": "Humanoide (humà, canviaformes)",
+        "alignment": "Legal Neutral",
+        "ac": 12,
+        "hp": 112,
+        "hit_dice": "14d8+56",
+        "velocitat": "30 u. (40 u. en forma de llop)",
+        "stats": [
+          18,
+          14,
+          18,
+          12,
+          18,
+          16
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "Percepció": 8
+          }
+        ],
+        "senses": "",
+        "damage_immunities": "impacte, perforant, i tallant d'armes no màgiques ni platejades",
+        "languages": "Comú (no pot parlar en forma de llop)",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Canviaformes",
+            "desc": "El Pare Llop pot usar una acció bonus per transformar-se en un llop, o en la seva forma original d'humanoide. Les seves estadístiques, a part del AC, són les mateixes en cada forma. L'equipament que porta o vesteix no es transforma. Torna a la seva forma original si mor."
+          },
+          {
+            "name": "Gran Oïda i Olfacte",
+            "desc": "El Pare Llop té avantatge en controls de Saviesa (Percepció) que es basin en oïda o olfacte."
+          },
+          {
+            "name": "Tàctiques de Rajada",
+            "desc": "El Pare Llop té avantatge en un tir d'atac contra una criatura si almenys un dels aliats del Pare Llop és a 5 u. de la criatura i l'aliat no està incapacitat."
+          }
+        ],
+        "spells": [
+          "L'habilitat innata d'encantament del Pare Llop és Carisma, i només pot conjurar els encanteris en forma humana. Innatament pot conjurar els següents encanteris, sense requerir components materials:",
+          "A voluntat: [[Parlar amb Animals]], [[Salvatgeria Primal]] (3d10 de dany)",
+          "3/dia cada: [[Conjurar Animals]] (només llops i llops fers)"
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac (Només en forma de Llop)",
+            "desc": "El Pare Llop fa dues mossegades."
+          },
+          {
+            "name": "Mossegada (Llop)",
+            "desc": "Atac cos a cos: +8 per donar, rang 5 u., un objectiu. Dany: 21 (3d8 + 8) perforant."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [
+          {
+            "name": "Mestre dels Llops",
+            "desc": "El Pare Llop crida a un llop aliat a 30 u. del Pare Llop que hagi fallat en una tirada del d20, que pot tornar a tirar-lo, fent servir la segona tirada."
+          },
+          {
+            "name": "Mirada del Pare Llop (1/alba)",
+            "desc": "Quan un atac donaria al Pare Llop, pot utilitzar aquesta reacció. La seva mirada es clava en aquelles criatures que pugui veure a 30 u., que han de superar un salvament de Carisma de CD 15 o tenir desavantatge en atacs contra ell durant una ronda, inclòs l'atac que activa aquesta reacció, degut a la presència immensa del Pare Llop que entumeix els sentits i els músculs."
+          }
+        ],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Dona-pantigana",
+      {
+        "image": null,
+        "name": "Dona-pantigana",
+        "size": "Mitjà,",
+        "type": "No-mort (canviaformes)",
+        "alignment": "Neutral Maligne",
+        "ac": 18,
+        "hp": 165,
+        "hit_dice": "18d8+76",
+        "velocitat": "30 u. (40 u. en forma de pantigana)",
+        "stats": [
+          18,
+          16,
+          19,
+          8,
+          11,
+          16
+        ],
+        "saves": [
+          {
+            "Constitució": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobàcies": 6
+          },
+          {
+            "Engany": 6
+          }
+        ],
+        "senses": "",
+        "damage_immunities": "",
+        "languages": "Comú",
+        "cr": "8",
+        "traits": [
+          {
+            "name": "Canviaformes",
+            "desc": "La Dona-pantigana pot usar una acció bonus per transformar-se en una pantigana gegant, o en la seva forma original de no-mort, aparentant una dona humana. Les seves estadístiques són les mateixes en cada forma, excepte la mida, esdevenint Gran. L'equipament que porta o es transforma amb ella."
+          },
+          {
+            "name": "Bot de pantigana (Només en forma de pantigana)",
+            "desc": "El salt llarg de la Dona-pantigana és de fins a 30 u. i el seu salt alt és de fins a 15 u., amb o sense embranzida. A més, al sortir del rang d'una criatura mitjançant un salt, provoca desavantatge en atacs d'oportunitat contra ella."
+          },
+          {
+            "name": "Potes Cuirassades (Només en forma de pantigana)",
+            "desc": "La Dona-pantigana no és afectada per terreny difícil, i no rep dany de l'encanteri [[Creixement d'Espines]]."
+          }
+        ],
+        "innatespells": [
+          "L'habilitat innata d'encantament de la Dona-pantigana és Carisma (CD 14 de salvament). Innatament pot conjurar els següents encanteris, sense requerir components materials:",
+          "A voluntat: [[Creixement d'Espines]]"
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac (Només en forma de pantigana)",
+            "desc": "La dona-pantigana fa dues mossegades"
+          },
+          {
+            "name": "Mossegada (Només en forma de pantigana)",
+            "desc": "Atac cos a cos: +7 per donar, rang 5 u., un objectiu. Dany: 11 (2d6 + 4) perforant, i l'objectiu és agafat (escapar CD 15)."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Peludet",
+      {
+        "image": null,
+        "name": "Peludet",
+        "size": "Gran,",
+        "type": "Esperit Maligne",
+        "alignment": "Caòtic Neutral",
+        "ac": 17,
+        "hp": 178,
+        "hit_dice": "16d10+90",
+        "velocitat": "50 u., escalar 30 u.",
+        "senses": "Visió Nocturna 60 u.",
+        "stats": [
+          19,
+          22,
+          20,
+          13,
+          14,
+          16
+        ],
+        "saves": [
+          {
+            "Destresa": 11
+          },
+          {
+            "Carisma": 8
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobàcies": 11
+          },
+          {
+            "Història": 6
+          },
+          {
+            "Percepció": 7
+          },
+          {
+            "Sigil": 11
+          }
+        ],
+        "damage_immunities": "foc, necròtic",
+        "damage_resistances": "impacte, perforant i tallant d'armes no màgiques",
+        "languages": "Comú, Infernal",
+        "cr": "13",
+        "traits": [
+          {
+            "name": "Gran Olfacte",
+            "desc": "En Peludet té avantatge en controls de Saviesa (Percepció) que es basin en l'olfacte."
+          },
+          {
+            "name": "Salt amb Carrera",
+            "desc": "Amb una embranzida de 10 u., en Peludet pot fer un salt llarg de fins a 25 u."
+          },
+          {
+            "name": "Armes Màgiques",
+            "desc": "Els atacs d'armes d'en Peludet són màgics."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "En Peludet fa dues urpades i una mossegada."
+          },
+          {
+            "name": "Urpada",
+            "desc": "Atac cos a cos: +11 per donar, rang 5 u., un objectiu. Dany: 9 (1d6+6) tallant + 3 (1d6) foc."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac a Distància: +11 per donar, rang 5 u., un objectiu. Dany: 17 (2d10 + 6) perforant + 4 (1d8) necròtic."
+          },
+          {
+            "name": "Portar a l'Infern (Recàrrega 5-6)",
+            "desc": "En Peludet obre un portal momentani a l'infern, creant un forat de foc al terra en un cercle de 15 u. de radi originant-se en ell. Cada criatura en contacte amb el terra dins de l'àrea ha de superar un salvament de Destresa de CD 16, rebent 22 (12d8) dany de foc si fallen el salvament, o la meitat si el superen."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Els ciris del Comte Arnau",
+            "desc": "En Peludet fa que ciris o espelmes al voltant creixin de mida o cremin, afectant a fins a 6 espelmes, cada una ocupant un diàmetre de 5 u. al ser transformada. Si fa que creixin, augmenten a 15 u. d'alçada i 5 d'ample, i 2,5 cm de gruix, amb CA 12 i 20 punts vitals, creant un mur si estan en contacte. Si cremen, causa que creïn un mur de foc de 15 u. d'alt que força un salvament de Destresa de CD 16 al aparèixer, o causa 3d6 dany de foc, la meitat si es supera, i dura fins al final del seu proper torn, consumint l'espelma. Es rep el mateix dany al creuar-lo."
+          }
+        ],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "Talla del Davallament",
+      {
+        "image": null,
+        "name": "Talla del Davallament",
+        "size": "Mitjà,",
+        "type": "Constructe",
+        "alignment": "Sense Moral",
+        "ac": 13,
+        "hp": 43,
+        "hit_dice": "6d8 + 16",
+        "velocitat": "40 u.",
+        "stats": [
+          14,
+          15,
+          14,
+          1,
+          3,
+          2
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "Atletisme": 4
+          }
+        ],
+        "damage_vulnerabilities": "foc, tallant",
+        "damage_resistances": "perforant",
+        "damage_immunities": "verí",
+        "condition_immunities": "encantat, exhaustió, espantat, paralitzat, enverinat, inconscient",
+        "senses": "Visió Nocturna 60 u., Visió Cega 30 u.",
+        "languages": "Entén les llengües del seu creador però no pot parlar",
+        "cr": "1",
+        "traits": [
+          {
+            "name": "Creu del Davallament",
+            "desc": "Si la Talla està en possessió d'una de les tres creus del Santíssim Misteri, guanya l'opció d'atacar amb la Creu. A més, mentre la porti a sobre, la seva velocitat es redueix a la meitat, i fa controls i salvaments de Destresa amb desavantatge."
+          },
+          {
+            "name": "Hòstia del Santíssim Misteri",
+            "desc": "Amb una acció bonus, la Talla pot consumir l'hòstia incorrupta dins del seu cap, fent que aquest exploti, i rebent 2d8 + 4 punts de dany radiant, fent que un aliat a 30 u. recuperi la meitat del dany rebut en punts vitals. Cada criatura a 5 u. ha de superar un salvament de Destresa de CD 12 o rebre la meitat de dany radiant. Al prendre aquesta acció bonus, perd la seva Visió Nocturna."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "La Talla fa dos patacs."
+          },
+          {
+            "name": "Patac",
+            "desc": "Atac cos a cos: +4 per donar, rang 5 u., un objectiu. Dany: 6 (1d6 + 2) d'impacte."
+          },
+          {
+            "name": "Creu",
+            "desc": "Cos a cos o Atac a Distància: +4 per donar, rang 10 u. o rang 15/30 u., un objectiu. Dany: 3 (2d8 + 2) impacte."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set de Mitologia Catalana"
+      }
+    ],
+    [
+      "La Contorsionista",
+      {
+        "name": "La Contorsionista",
+        "image": null,
+        "size": "Mitjana,",
+        "type": "Humanoide",
+        "alignment": "Caòtica Maligna",
+        "ac": 15,
+        "hp": 91,
+        "hit_dice": "14d8+28",
+        "velocitat": "40 u.",
+        "stats": [
+          16,
+          20,
+          14,
+          10,
+          12,
+          7
+        ],
+        "saves": [
+          {
+            "Constitució": 5
+          },
+          {
+            "Força": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobàcies": 8
+          },
+          {
+            "Atletisme": 6
+          },
+          {
+            "Sigil": 8
+          }
+        ],
+        "languages": "Silvana i comú",
+        "damage_resistances": "perforant",
+        "damage_vulnerabilities": "tallant i fred",
+        "damage_immunities": "impacte",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 11",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Desossada",
+            "desc": "La contorsionista es pot moure per espais tan estrets com 2,5 cm d'ample sense estrènyer-se."
+          },
+          {
+            "name": "Escalar d'Aranya",
+            "desc": "La contorsionista pot escalar superfícies difícils, incloent sostres, sense haver de fer controls d'habilitat."
+          },
+          {
+            "name": "Transferència de Dany",
+            "desc": "Mentre estigui embolicada a una criatura, la contorsionista rep només la meitat del dany inflingit a ella (arrodonint a la baixa), i la criatura agafada rep l'altra meitat."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "La Contorsionista pot cruixir ossos i després atacar amb els cabells embullats."
+          },
+          {
+            "name": "Cruixir Ossos",
+            "desc": "Atac cos a cos: +8 per donar, rang 5 u., un objectiu. Dany: 27 (4d10 + 5) impacte. La contorsionista embolica amb el seu cos a l'objectiu, i si aquest és una criatura Gran o menor, és agafat (escapar CD 16). Fins que deixi d'agafar, la contorsionista no pot atacar a cap altra criatura d'aquesta manera, però té avantatge al fer-ho contra la criatura agafada."
+          },
+          {
+            "name": "Cabells Embullats",
+            "desc": "Atac cos a cos: +8 per donar, rang 15 u., un objectiu. Dany: 16 (2d10 + 5) perforant. Si l'objectiu és mitjà o menor, la contorsionista el pot estirar fins a 15 u. cap a ella."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Atac Forçat",
+            "desc": "Quan la contorsionita està agafada a una criatura, pot intentar forçar-la a fer un atac cos a cos contra un objectiu en rang. La criatura ha de superar un salvament de Força de CD 16 o ser obligada a fer aquest atac."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "Bessó Trapezista",
+      {
+        "name": "Bessó Trapezista",
+        "image": null,
+        "size": "Mitjà,",
+        "type": "Humanoide",
+        "alignment": "Caòtica Maligna",
+        "ac": 16,
+        "hp": 110,
+        "hit_dice": "20d8+20",
+        "velocitat": "50 u.",
+        "stats": [
+          18,
+          20,
+          13,
+          8,
+          12,
+          14
+        ],
+        "saves": [
+          {
+            "Destresa": 8
+          },
+          {
+            "Força": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobàcies": 8
+          },
+          {
+            "Actuació": 3
+          },
+          {
+            "Atletisme": 7
+          }
+        ],
+        "languages": "Silvana i comú",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 11",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Aterratge de Gat",
+            "desc": "El trapezista és immune al dany provocat per caigudes."
+          },
+          {
+            "name": "Escalar d'Aranya",
+            "desc": "El trapezista pot escalar superfícies difícils, incloent sostres, sense haver de fer controls d'habilitat."
+          },
+          {
+            "name": "Mallot Elemental",
+            "desc": "El trapezista causa 1d6 de dany extra de fred (blau) o de foc (vermell) segons el color del seu mallot (no inclòs en els atacs)."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "El trapezista pot Llençar al Vol i fer una Tombarella Espinosa, o usa Llençar al Vol i un atac de Puny Siamés."
+          },
+          {
+            "name": "Llençar al Vol",
+            "desc": "L'objectiu ha de superar un control d'Atletisme o Acrobàcies de CD 15, o ser llençat fins a 30 u. en qualsevol direcció."
+          },
+          {
+            "name": "Tombarella Espinosa",
+            "desc": "Atac cos a cos: +8 per donar, rang 5 u., un objectiu. Dany: 16 (2d6 + 5) perforant. Per cada 10 u. seguides d'impuls sense tocar el terra prèvies a connectar l'atac, el dany augmenta en 1d6. Si l'objectiu és gran o menor, ha de superar un salvament de Força de CD 16 o ser empès fins a 15 u. enrere."
+          },
+          {
+            "name": "Puny Siamés (només en forma Siamesa)",
+            "desc": "Atac cos a cos: +8 per donar, rang 10 u., un objectiu. Dany: 16 (2d6 + 5) perforant + 4 (1d8) fred + 4 (1d8) foc. Si l'objectiu és enorme o menor, ha de superar un salvament de Força de CD 16 o ser empès fins a 15 u. enrere."
+          }
+        ],
+        "innatespells": [
+          "L'habilitat innata d'encantament del trapezista és Carisma. Innatament pot conjurar els següents encanteris, sense requerir components materials:",
+          "A voluntat: [[Llit de Plomes]]",
+          "3/dia: [[Cant Curatiu]] (mai sobre si mateix), [[Salt]]",
+          "1/dia: [[Escut de Foc]] (fred si té el mallot blau, càlid si té el mallot vermell)"
+        ],
+        "bonus_actions": [
+          {
+            "name": "Bessons Siamesos (1/dia)",
+            "desc": "El trapezista toca el cadàver de l'altre bessó trapezista, i els seus cossos s'emboliquen en un de sol, passant a la Forma Siamesa i guanyant 100 pv addicionals. Aquesta forma és de mida Gran, té una puntuació de 20 en cada estadística física i 6 en cada estadística mental, i resistència al dany de fred i foc. Perd accés a l'atac Tombarella Espinosa, però adquireix l'atac Puny Siamés."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Accions Llegendàries (1/Ronda)",
+            "desc": "El trapezista pot usar 1 acció llegendària, al final del torn d'una altra criatura. El trapezista recupera l'acció llegendària gastada al principi del seu torn."
+          },
+          {
+            "name": "Puny Siamés (només en forma Siamesa)",
+            "desc": "El trapezista fa un atac de Puny Siamés."
+          }
+        ],
+        "reactions": [],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "El Director",
+      {
+        "name": "El Director",
+        "image": null,
+        "size": "Petit,",
+        "type": "Fey",
+        "alignment": "Legal Maligne",
+        "ac": 17,
+        "hp": 99,
+        "hit_dice": "22d6+22",
+        "velocitat": "25 u., volar 50 u.",
+        "stats": [
+          6,
+          12,
+          12,
+          20,
+          17,
+          18
+        ],
+        "saves": [
+          {
+            "Destresa": 5
+          },
+          {
+            "Intel·ligència": 9
+          },
+          {
+            "Saviesa": 7
+          },
+          {
+            "Carisma": 8
+          }
+        ],
+        "skillsaves": [
+          {
+            "Persuasió": 8
+          },
+          {
+            "Percepció": 7
+          }
+        ],
+        "languages": "Silvana i comú",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 17",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Equipament Especial",
+            "desc": "El director té dues [[Poció de Curació|Pocions de Curació Superiors]]."
+          },
+          {
+            "name": "Sobrevolar",
+            "desc": "El director no provoca atacs d'oportunitat quan vola fora del rang d'un enemic."
+          },
+          {
+            "name": "Resistència Llegendària (3/Dia)",
+            "desc": "Si el director falla un salvament, pot escollir superar-lo."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Cop de Barret",
+            "desc": "Atac cos a cos: +9 per donar, rang 10 u., un objectiu. Dany: 9 (1d8 + 5) impacte. Si l'objectiu és una criatura, ha de superar un salvament de Força de CD 17 o ser empesa fins a 10 u. enllà del director."
+          }
+        ],
+        "innatespells": [
+          "L'habilitat innata d'encantament del director és Intel·ligència (CD 17 de salvament d'encanteri). Innatament pot conjurar els següents encanteris, sense requerir components materials:",
+          "A voluntat: [[Passa Bromosa]], [[Burla Viciosa]] (2d4 de dany)",
+          "3/dia: [[Contra-encanteri]], [[Cursa Flamífera]], [[Trapelleria Fey]], [[Comandar]], [[Dissipar Màgia]]",
+          "1/dia: [[Escampar]], [[Llibertat de Moviment]], [[Dansa Irresistible]], [[Dominar Persona]]"
+        ],
+        "bonus_actions": [
+          {
+            "name": "Dirigir",
+            "desc": "El director instrueix a un aliat a 60 u. sobre la seva actuació, permetent que aquest faci immediatament un atac amb una recció."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Accions Llegendàries (3/Ronda)",
+            "desc": "El director pot usar 3 accions llegendàries, escollint entre les opcions següents. Només una acció llegendària pot ser usada a la vegada i només al final del torn d'una altra criatura. El director recupera les accions llegendàries gastades al principi del seu torn."
+          },
+          {
+            "name": "Conjurar un Encanteri (Costa 2 Accions)",
+            "desc": "El director conjura un encanteri de la seva llista d'encanteris."
+          },
+          {
+            "name": "Dirigir",
+            "desc": "El director usa Dirigir per instruir a un aliat."
+          },
+          {
+            "name": "Cop de Barret",
+            "desc": "El director fa un Cop de Barret."
+          }
+        ],
+        "reactions": [],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "L'Empassasabres",
+      {
+        "name": "L'Empassasabres",
+        "image": null,
+        "size": "Petita,",
+        "type": "Humanoide",
+        "alignment": "Neutral Maligna",
+        "ac": 15,
+        "hp": 105,
+        "hit_dice": "14d8+42",
+        "velocitat": "30 u.",
+        "stats": [
+          18,
+          13,
+          17,
+          7,
+          8,
+          11
+        ],
+        "saves": [
+          {
+            "Constitució": 7
+          },
+          {
+            "Força": 6
+          }
+        ],
+        "skillsaves": [],
+        "languages": "Silvana i comú",
+        "damage_resistances": "perforant, tallant",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 9",
+        "cr": "6",
+        "traits": [
+          {
+            "name": "Estòmac d'Acer",
+            "desc": "L'empassasables pot empassar-se i escopir armes i munició sense problema. Tot i això, només pot tenir fins a dos objectes d'aquest tipus dins seu a la vegada. Al usar Escopir Arma, escup un d'aquests objectes, alliberant espai."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "L'Empassasables usa Empassar Arma una vegada i Escopir Arma dues, o escopir tres vegades."
+          },
+          {
+            "name": "Empassar Arma",
+            "desc": "Atac cos a cos: +7 per donar, rang 5 u., un objectiu. Dany: 17 (2d12 + 4) impacte. L'empassasables mossega a l'objectiu, intentant empassar una arma o projectil que estigui aguantant o portant. L'objectiu ha de superar un salvament de Força de CD 15 per evitar-ho, si no l'arma és empassada."
+          },
+          {
+            "name": "Escopir Arma",
+            "desc": "Atac d'arma de rang: +7 per donar, rang 20/60 u., un objectiu. Dany: 5 (1d6 + 4) perforant. Si l'arma escopida usa un tipus de dany diferent al perforant, s'usa aquest dany. A més, si el dau de dany de l'arma és major al dany d'Escopir, s'usa el dau major."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Aperitiu",
+            "desc": "L'empassasables pot empassar-se una arma o peça de munició no aguantada o portada a 5 u."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [
+          {
+            "name": "Queixalada",
+            "desc": "L'empassasables pot intentar empassar-se una arma o peça de munició que erri en un atac contra ella. En el cas d'atacs cos a cos, l'empassasables usa Empassar Arma contra l'atacant, i en el cas d'atacs de rang, empassa el projectil automàticament."
+          }
+        ],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "El Forçut",
+      {
+        "name": "El Forçut",
+        "image": null,
+        "size": "Gran,",
+        "type": "Gegant",
+        "alignment": "Caòtic Neutral",
+        "ac": 13,
+        "hp": 133,
+        "hit_dice": "14d10+56",
+        "velocitat": "25 u.",
+        "stats": [
+          20,
+          9,
+          19,
+          4,
+          10,
+          6
+        ],
+        "saves": [
+          {
+            "Constitució": 7
+          },
+          {
+            "Força": 8
+          },
+          {
+            "Saviesa": 3
+          }
+        ],
+        "skillsaves": [
+          {
+            "Atletisme": 8
+          }
+        ],
+        "languages": "Silvana i comú",
+        "damage_resistances": "psíquic, i perforant, tallant i impacte d'armes no màgiques",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 10",
+        "cr": "8",
+        "traits": [
+          {
+            "name": "Trencador Professional",
+            "desc": "El Forçut fa el doble de dany a objectes i estructures."
+          },
+          {
+            "name": "Cervell Atrofiat",
+            "desc": "El cervell aixafat del Forçut és complicat de manipular. Té avantatge en salvaments contra ser atordit, encantat i espantat."
+          },
+          {
+            "name": "Doblegar Metall",
+            "desc": "Certes habilitats del Forçut li permeten doblegar armes i armadures de metall, imposant-hi modificadors negatius. Un d'aquests objectes doblegat quatre vegades és inutilitzat i no es pot reparar. Cada hora, un objecte doblegat recupera un punt de les seves propietats originals, fins tornar al seu estat habitual."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "El Forçut fa un Cop de Puny i usa Doblegar Metall."
+          },
+          {
+            "name": "Cop de Puny",
+            "desc": "Atac cos a cos: +8 per donar, rang 10 u., un objectiu. Dany: 18 (2d12 + 5) impacte."
+          },
+          {
+            "name": "Doblegar Metall",
+            "desc": "Atac cos a cos: +8 per donar, rang 10 u., un objectiu. Dany: 32 (6d8 + 5) impacte, i l'objectiu és agafat (escapar CD 16). Fins que deixi d'agafar, la criatura queda restringida, i el Forçut no pot usar aquest atac contra un altre objectiu. A més, si l'objectiu porta armadura metàl·lica, el Forçut pot fer un control d'Atletisme de CD 17. Si el supera, doblega l'armadura, causant que aquesta guanyi un modificador de -1 a la seva CA."
+          },
+          {
+            "name": "Llençar Ferralla",
+            "desc": "Atac d'arma de rang: +8 per donar, rang 60/240 u., un objectiu. Dany: 31 (4d12 + 5) impacte. El forçut pega un munt de ferralla del terra i el llença al seu objectiu."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [
+          {
+            "name": "Plec Defensiu",
+            "desc": "Al rebre un atac d'una arma de metall cos a cos, pot fer un control d'Atletisme de CD 17. Si el supera, doblega l'arma, causant que aquesta guanyi un modificador de -1 als tirs d'atac i dany."
+          }
+        ],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "Pallasso Fàdic",
+      {
+        "name": "Pallasso Fàdic",
+        "image": null,
+        "size": "Mitjà,",
+        "type": "Fey",
+        "alignment": "Caòtic Maligne",
+        "ac": 13,
+        "hp": 41,
+        "hit_dice": "6d8+14",
+        "velocitat": "35 u.",
+        "stats": [
+          14,
+          9,
+          15,
+          7,
+          10,
+          18
+        ],
+        "saves": [
+          {
+            "Carisma": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobàcies": 1
+          }
+        ],
+        "languages": "Silvana i comú",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 10",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Pols de Rialles",
+            "desc": "Al caure a 0 punts vitals, el pallasso explota en un núvol de pols groga. Aquelles criatures a 5 u. d'ell han de superar un salvament de Carisma de CD 14 o quedar rient, incapacitades fins al final del seu proper torn."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Garrot de Goma",
+            "desc": "Atac cos a cos: +4 per donar, rang 5 u., un objectiu. Dany: 6 (1d8 + 2) d'impacte."
+          },
+          {
+            "name": "Globus Animal (Recàrrega 6)",
+            "desc": "El pallasso infla un globus en forma d'animal, que actua just després del pallasso. Té 20 u. de moviment, una CA de 10 i 1 punt vital, i les úniques accions que pot prendre són esquivar, esprintar i explotar. Al explotar, causa que aquelles criatures a 5 u. hagin de superar un SLV-Co de CD 14 o rebin 4d8 dany de so i quedin ensordides fins el final del seu proper torn. Si es supera el salvament, només es rep la meitat del dany i la criatura no queda ensordida."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "L'Empassafoc",
+      {
+        "name": "L'Empassafoc",
+        "image": null,
+        "size": "Mitjà,",
+        "type": "Elemental",
+        "alignment": "Caòtic Neutral",
+        "ac": 15,
+        "hp": 150,
+        "hit_dice": "20d6+80",
+        "velocitat": "50 u.",
+        "stats": [
+          7,
+          19,
+          18,
+          6,
+          11,
+          14
+        ],
+        "saves": [
+          {
+            "Destresa": 7
+          },
+          {
+            "Constitució": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobàcies": 7
+          }
+        ],
+        "languages": "Silvana i comú",
+        "damage_vulnerabilities": "foc",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 10",
+        "cr": "8",
+        "traits": [
+          {
+            "name": "Agilitat Circense",
+            "desc": "L'Empassafoc es pot moure a través de l'espai d'altres criatures que siguin d'una mida superior a ell. A més, els atacs d'oportunitat contra ell tenen desavantatge."
+          },
+          {
+            "name": "Suor Inflamable",
+            "desc": "L'empassafoc supura consantment un líquid inflamable, deixant un rastre rere seu que perdura fins a l'inici del seu proper torn. Si el rastre rep dany de foc, s'encén sencer, cremant fins a l'inici del proper torn de l'Empassafoc i causant 1d6 dany de foc a aquells que el trepitgin."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "L'Empassafoc fa dos atacs amb la Torxa."
+          },
+          {
+            "name": "Torxa",
+            "desc": "Cos a cos o Atac a Distància: +7 per donar, rang 5 u. o rang 20/60 u., un objectiu. Dany: 7 (1d6 + 4) de foc."
+          },
+          {
+            "name": "Escopir Foc (Recàrrega 3-6)",
+            "desc": "L'empassafoc exhala un con de 30 u. de flames. Cada criatura dins l'àrea ha de superar un salvament de Destresa de CD 15, rebent 36 (8d8) dany de foc si fallen el salvament, o la meitat si el superen."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [
+          {
+            "name": "Empassar Elements",
+            "desc": "Al rebre dany d'àcid, elèctric, foc, fred, o verí, pot empassar-se part de l'energia elemental, reduint a la meitat el dany rebut. A més, al fer-ho recupera l'ús d'Escopir Foc si no el tenia, convertint el dany de foc d'aquesta acció en el tipus de dany rebut."
+          }
+        ],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "Bèstia Somrient",
+      {
+        "image": null,
+        "name": "Bèstia Somrient - Plantilla",
+        "source": [
+          "MicMiquel - Set del Circ Fàdic"
+        ],
+        "type": "Bèstia",
+        "subtype": "",
+        "size": "",
+        "alignment": "Neutral Maligna",
+        "hit_dice": "",
+        "velocitat": "",
+        "damage_resistances": "àcid, necròtic",
+        "damage_vulnerabilities": "",
+        "languages": "",
+        "condition_immunities": "",
+        "saves": [],
+        "skillsaves": [],
+        "senses": "",
+        "traits": [
+          {
+            "name": "Pústules Àcides",
+            "desc": "Al rebre dany físic es rebenten pústules al voltant del seu cos, causant que ella i aquelles criatures a 5 u. rebin 1d6 de dany àcid."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Vòmit Necròtic (Recàrrega 5-6)",
+            "desc": "La bèstia projecta vòmit en una línia de 30 u. Aquelles criatures dins la línia han de superar un salvament de Destresa de CD 14 o rebre 3d6 dany necròtic. La bèstia rep la mateixa quantitat de dany."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "Canvis": [
+          {
+            "name": "Mossegada",
+            "desc": "Si és capaç de mossegar, afegeix un dau de dany a la tirada, de tipus necròtic."
+          },
+          {
+            "name": "CR",
+            "desc": "El seu CR augmenta en 1"
+          }
+        ],
+        "spells": [],
+        "spellsNotes": ""
+      }
+    ],
+    [
+      "La Domadora",
+      {
+        "name": "La Domadora",
+        "image": null,
+        "size": "Mitjà,",
+        "type": "Monstruositat",
+        "alignment": "Legal Maligna",
+        "ac": 15,
+        "hp": 125,
+        "hit_dice": "18d8+36",
+        "velocitat": "30 u.",
+        "stats": [
+          14,
+          19,
+          14,
+          8,
+          16,
+          15
+        ],
+        "saves": [
+          {
+            "Destresa": 7
+          },
+          {
+            "Carisma": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Atletisme": 4
+          },
+          {
+            "Control Animal": 6
+          },
+          {
+            "Intuïció": 75
+          }
+        ],
+        "languages": "Silvana i comú",
+        "cr": "6",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 15",
+        "traits": [
+          {
+            "name": "Sang Bestial",
+            "desc": "Pot comunicar-se amb animals sense problema."
+          },
+          {
+            "name": "Salt Felí",
+            "desc": "El salt llarg de la Domadora és de fins a 20 u. i el seu salt alt és de fins a 10 u., amb o sense embranzida."
+          },
+          {
+            "name": "Mestra de les Bèsties",
+            "desc": " Si la Domadora rep dany i té una bèstia aliada a 60 u., la bèstia rep la meitat d'aquest dany, arrodonint a la baixa, en comptes d'ella. No s'apliquen possibles resistències de la bèstia al dany rebut. Si hi ha múltiples bèsties elegibles, s'escull la més propera."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "La Domadora usa el Fuet Obedient i el Fuet Estirador, i fa una Mossegada."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +7 per donar, rang 5 u., un objectiu. Dany: 7 (1d6 + 4) perforant i 7 (2d6) necròtic."
+          },
+          {
+            "name": "Fuet Obedient",
+            "desc": "Atac cos a cos +7 per donar, rang 15 u., un objectiu. Dany: 8 (1d8 + 4) tallant. Cal superar un salvament de Saviesa de CD 14 o caure sota els efectes de l'encanteri [[Comandar]]."
+          },
+          {
+            "name": "Fuet Estirador",
+            "desc": "Atac cos a cos +7 per donar, rang 15 u., un objectiu. Dany: 13 (2d8 + 4) tallant. Si la Domadora ho escull, força a superar un salvament de Força de CD 15 o ser estirat fins a 10 u. cap a ella."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Ordre de la Doma",
+            "desc": "La Domadora escull una criatura aliada a 30 u. que pugui escoltar-la o veure-la, i permet que aquesta faci un atac cos a cos amb la seva reacció."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Correcció de la Doma",
+            "desc": "Si un aliat seu fallaria un atac a 30u., pot usar la seva reacció cridar una ordre i permetre-li tornar a tirar el dau, usant el segon resultat."
+          }
+        ],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "Perla",
+      {
+        "name": "Perla",
+        "image": null,
+        "size": "Enorme,",
+        "type": "Monstruositat",
+        "alignment": "Neutral",
+        "ac": 14,
+        "hp": 133,
+        "hit_dice": "14d12+42",
+        "velocitat": "40 u., excavar 20 u.",
+        "stats": [
+          20,
+          8,
+          16,
+          5,
+          9,
+          14
+        ],
+        "saves": [
+          {
+            "Constitució": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Sigil": 2
+          },
+          {
+            "Percepció": 2
+          }
+        ],
+        "cr": "6",
+        "damage_vulnerabilities": "radiant",
+        "senses": "Visió Nocturna 60 u., Sentit del Tremolor 30 u., Percepció passiva 12",
+        "traits": [
+          {
+            "name": "Aparença Falsa",
+            "desc": "Mentre la Perla estigui quieta i mig enterrada, és indistingible d'un gat blanc tancar en un corral d'estaques blanques, a no ser que un observador superi un control d'Intel·ligència (Investigació) de CD 14."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "La Perla fa una Mossegada i un atac d'Agulló. També pot substituir l'Agulló per Presència Esfereïdora"
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +8 per donar, rang 10 u., un objectiu. Dany: 20 (3d10 + 4) perforant. Si l'objectiu és una criatura Gran o menor, ha de superar un salvament de Destresa de CD 16 o ser empassada per la Perla. Una criatura empassada és encegada i restringida, té cobertura total contra atacs i altres efectes fora el cuc, i rep 10 (3d6) dany àcid al principi de cada torn de la Perla. Si la Perla rep dany radiant, o 20 de dany o més en un sol torn d'una criatura dins ella, ha de superar un salvament de Constitució de CD 20 al final del torn o regurgitar tota criatura empassada, que cau estirada a un espai a 10 u. del cuc. Si la Perla mor, una criatura empassada deixa de ser restringida i pot escapar del cadàver usant 20 u. de moviment, sortint-ne estirada. La Perla pot tenir empassades fins a quatre criatures mitjanes, o una gran."
+          },
+          {
+            "name": "Agulló",
+            "desc": "Atac cos a cos +7 per donar, rang 15 u., un objectiu. Dany: 7 (1d10 + 5) perforant, i l'objectiu ha de superar un salvament de Constitució de CD 14, rebent 16 (3d10) dany de verí si falla el salvament, o la meitat si el supera."
+          },
+          {
+            "name": "Presència Esfereïdora",
+            "desc": "Cada criatura escollida per la Perla que estigui a 120 u. d'ella i conscient de la seva presència ha de superar un salvament de Saviesa de CD 14 o ser espantada per 1 minut. Una criatura pot repetir el salvament al final dels seus torns, acabant amb l'efecte si té èxit. Si el salvament d'una criatura té èxit o l'efecte acaba per ella, la criatura és immune a la Presència Esfereïdora de la Perla durant les properes 24 hores."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "Acròbata Fàdic",
+      {
+        "name": "Acròbata Fàdic",
+        "image": null,
+        "size": "Mitjà,",
+        "type": "Planta",
+        "alignment": "Legal Maligne",
+        "ac": 13,
+        "hp": 66,
+        "hit_dice": "12d8+12",
+        "velocitat": "40 u.",
+        "stats": [
+          12,
+          16,
+          13,
+          13,
+          7,
+          12
+        ],
+        "saves": [
+          {
+            "Destresa": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobàcies": 5
+          },
+          {
+            "Actuació": 3
+          },
+          {
+            "Atletisme": 3
+          }
+        ],
+        "cr": "3",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 8",
+        "traits": [
+          {
+            "name": "Xanques",
+            "desc": "L'Acròbata disposa de xanques, que situen a l'Acròbata a 10 u. per sobre del terra, i li proporcionen una sèrie de característiques. Les xanques tenen una CA 15 i 25 punts vitals, i tenen vulnerabilitat al dany tallant i de foc. Al arribar a 0 punts vitals es trenquen i l'acròbata cau dempeus a terra, perdent així els seus beneficis. \n Si l'Acròbata perd les xanques, el seu moviment es redueix a 20 u., el rang dels seus atacs a 5 u., i el seu dau de dany es torna un d6. "
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "L'Acròbata fa dues Travetes"
+          },
+          {
+            "name": "Traveta",
+            "desc": "Atac cos a cos: +5 per donar, rang 10 u., un objectiu. Dany: 9 (1d12 + 3) d'impacte. Si l'objectiu és una criatura Gran o menor, ha de superar un salvament de Força de CD 13 o caure estirada."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Brotar Xanques (Recàrrega 5-6)",
+            "desc": "Si l'Acròbata ha perdut les seves xanques, pot brotar-ne de noves. Fer-ho no provoca atacs d'oportunitat."
+          }
+        ],
+        "reactions": [
+          {
+            "name": "Brotar Branques",
+            "desc": "L'Acròbata fa brotar branques i brots d'algun lloc del seu cos, incloses les cames, afegint +3 a la seva CA contra un atac que li donaria."
+          }
+        ],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "Somrís",
+      {
+        "name": "Somrís",
+        "image": null,
+        "size": "Gran,",
+        "type": "Fey",
+        "alignment": "Caòtic Maligne",
+        "ac": 16,
+        "hp": 152,
+        "hit_dice": "16d10+64",
+        "velocitat": "40 u.",
+        "stats": [
+          18,
+          16,
+          19,
+          15,
+          18,
+          21
+        ],
+        "saves": [
+          {
+            "Constitució": 9
+          },
+          {
+            "Saviesa": 9
+          },
+          {
+            "Carisma": 10
+          }
+        ],
+        "skillsaves": [
+          {
+            "Engany": 10
+          },
+          {
+            "Sigil": 8
+          },
+          {
+            "Percepció": 9
+          }
+        ],
+        "cr": "14",
+        "damage_vulnerabilities": "radiant",
+        "damage_immunities": "necròtic",
+        "damage_resistances": "impacte, perforant, tallant d'atacs no màgics",
+        "senses": "Visió Nocturna 120 u., Percepció passiva 19",
+        "languages": "Comú i Fey",
+        "traits": [
+          {
+            "name": "Resistència Màgica",
+            "desc": "El Somrís té avantatge en salvaments contra encanteris i altres efectes màgics."
+          },
+          {
+            "name": "Vista Ombrívola",
+            "desc": "La foscor màgica no impedeix la Visió Nocturna del Somrís."
+          },
+          {
+            "name": "Resistència Llegendària (3/Dia)",
+            "desc": "Si el Somrís falla un salvament, pot escollir superar-lo."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "El Somrís pot fer una Mossegada, un Cop de Puny i Robar Essència. Alternativament, pot usar Robar Essència i Escampar Corrupció."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +9 per donar, rang 5 u., un objectiu. Dany: 15 (2d10 + 4) perforant i 4 (1d8) necròtic."
+          },
+          {
+            "name": "Cop de Puny",
+            "desc": "Atac cos a cos +9 per donar, rang 10 u., un objectiu. Dany: 11 (2d6 + 4) impacte."
+          },
+          {
+            "name": "Robar Essència",
+            "desc": "Atac cos a cos +9 per donar, rang 10 u., un objectiu. El Somrís intenta engrapar a l'objectiu. Si l'atac dona, cal superar un salvament de Carisma de CD 18 o rebre 18 (4d8) dany psíquic, la meitat si es supera. A més, si es falla el salvament, entra en efecte un dels següents afectes, i es determina tirant un d6: \n*1. Vista*: la criatura és encegada fins el final del seu proper torn. Fins al final del seu proper torn, el Somrís, cobert d'ulls, té avantatge en controls de Saviesa (Percepció) basats en la vista, però guanya la característia *Sensitivitat Solar*. \n*2. Boca*: la criatura és emmudida fins el final del seu proper torn. Al Somrís li brota una boca al palmell, i fins al final del seu proper torn, quan dona un Cop de puny causa el dany d'una Mossegada. \n*3. Fortalesa*: la criatura té desavantatge en tirs d'atac fins el final del seu proper torn. Al Somrís se li duplica la musculatura, causant que tingui avantatge en els seus tirs d'atac fins el final del seu proper torn, però només la meitat de moviment. \n*4. Oïda*: la criatura queda ensordida fins el final del seu proper torn. Al Somrís li creixen unes llargues orelles, donant-li avantatge en controls de Saviesa (Percepció) basats en l'oïda fins el final del seu proper torn, però també vulnerabilitat al dany de so. \n *5. Velocitat*: la criatura té la seva velocitat reduïda a 0 fins el final del seu proper torn. Al Somrís se li allarguen les cames, donant-li 20 u. més de velocitat de moviment. \n *6. Vitalitat*: la criatura rep 4d8 de dany necròtic, i el Somrís recupera aquest dany en punts vitals, omplint-se de sang, però resta 2 a la seva CA fins al final del seu proper torn."
+          },
+          {
+            "name": "Escampar Corrupció (Recàrrega 5-6)",
+            "desc": "El Somrís escull un punt al terra a 30 u., d'on sorgeix una foscor llefiscosa de 30 u. de radi. Aquelles criatures dins l'àrea d'efecte han de superar un salvament de Saviesa de CD 18 o rebre (27) 6d8 necròtic, la meitat si es supera. A més, si es falla el salvament, la criatura suma 1 a una de les seves dues puntuacions d'habilitat més altes, i resta 1 a tres de les restants. Aquests canvis duren fins haver completat un descans llarg o fins que es conjuri l'encanteri [[Eliminar Maledicció]] sobre la criatura. A més, durant el proper torn, cal que la criatura actui d'acord a un dels seus trets de personalitat, de manera molt acccentuada, ja que la màgia del Somrís accentua les característiques de la criatura."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Salt d'Ombra",
+            "desc": "El Somrís es teletransporta, amb qualsevol equipament que estigui portant o vestint, fins a 30 u. a un espai lliure que vegi. Tant l'espai d'on es teletransporta com l'espai on arriba han d'estar en llum lleu o foscor."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Robar Essència",
+            "desc": "El Somrís usa Robar Essència."
+          },
+          {
+            "name": "Salt d'Ombra",
+            "desc": "El Somrís usa Salt d'Ombra."
+          },
+          {
+            "name": "Conjurar un Encanteri (Costa 2 Accions)",
+            "desc": "El Somrís conjura un encanteri de la seva llista d'encanteris."
+          }
+        ],
+        "spells": [
+          "L'habilitat innata d'encantament del Somrís és Carisma (salvament d'encanteri CD 18). Innatament pot conjurar els següents encanteris, sense requerir components:",
+          "A voluntat: [[Detectar Pensaments]]",
+          "\n2/dia cada: [[Dominar Persona]], [[Engrandir, Reduir]], [[Fam del Buit]], [[Foscor]], [[Riure Llefiscós]]"
+        ],
+        "reactions": [],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "Malabarista Fàdic",
+      {
+        "name": "Malabarista Fàdic",
+        "image": null,
+        "size": "Mitjà,",
+        "type": "Humanoide",
+        "alignment": "Legal Maligne",
+        "ac": 15,
+        "hp": 65,
+        "hit_dice": "10d8+20",
+        "velocitat": "30 u.",
+        "stats": [
+          11,
+          17,
+          14,
+          10,
+          14,
+          12
+        ],
+        "saves": [
+          {
+            "Destresa": 5
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobàcies": 5
+          },
+          {
+            "Actuació": 3
+          },
+          {
+            "Joc de Mans": 5
+          },
+          {
+            "Percepció": 4
+          }
+        ],
+        "cr": "4",
+        "senses": "Visió Nocturna 60 u., Percepció passiva 14",
+        "languages": "Comú i Fey",
+        "traits": [
+          {
+            "name": "Escalar d'Aranya",
+            "desc": "El Malabarista pot escalar superfícies difícils, incloent sostres, sense haver de fer controls d'habilitat i sense usar els braços."
+          },
+          {
+            "name": "Agilitat Incessant",
+            "desc": "El Malabarista pot retirar-se amb una acció bonus en cada un dels seus torns."
+          },
+          {
+            "name": "Actuació Impossibilitada",
+            "desc": "Al estar restringit, el malabarista no pot fer atacs de Malabars."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "El Malabarista pot quatre atacs de Malabars, o quatre Cops de Puny."
+          },
+          {
+            "name": "Malabars",
+            "desc": "Atac a Distància: +5 per donar, rang 30/60 u., un objectiu. El dany varia segons l'objecte llençat pel malabarista, que després d'impactar es regenera a les seves mans. Per determinar el dany es tira un d10 en la llista següent: \n 1 - *Pilota*: 1 dany d'impacte \n 2 a 3 - *Floret*: 5 (1d6+2) perforant \n 4 a 5 - *Porra*: 5 (1d6+2) impacte \n 6 a 7 - *Destral*: 5 (1d6+2) tallant \n 8 - *Vial d'Àcid*: 7 (2d6) àcid \n 9 - *Vial de Verí*: 5 (2d4) verí, i cal superar un salvament de Constitució de CD 13 o ser enverinat durant un minut. Una criatura enverinada pot repetir el salvament al final dels seus torns, acabant amb l'efecte si té èxit. \n 10 - *Vial de Foc Alquímic*: 2 (1d4) dany de foc. A més, la criatura rep 1d4 dany de foc a l'inici dels seus torns. Es pot acabar amb aquest efecte usant una acció per a fer un control de Destresa de CD 10 per apagar les flames."
+          },
+          {
+            "name": "Cop de Puny",
+            "desc": "Atac cos a cos +2 per donar, rang 10 u., un objectiu. Dany: 2 (1d4) impacte."
+          }
+        ],
+        "bonus_actions": [],
+        "legendary_actions": [],
+        "spells": [],
+        "reactions": [
+          {
+            "name": "",
+            "desc": "Quan el Malabarista és donat per un atac de rang d'arma, pot reduir el dany de l'atac per 1d10 + 5. Si el dany queda reduït a 0, el Malabarista pot usar-lo per a fer un atac de Malabar (fent servir el dany del projectil) com a part de la reacció, si el projectil és prou petit com per agafar-lo amb una mà."
+          }
+        ],
+        "source": "MicMiquel - Set del Circ Fàdic"
+      }
+    ],
+    [
+      "Glòbul Absorbent",
+      {
+        "image": null,
+        "name": "Glòbul Absorbent",
+        "size": "Gran,",
+        "type": "Llim",
+        "alignment": "Amoral",
+        "ac": 8,
+        "hp": 51,
+        "hit_dice": "6d10+18",
+        "velocitat": "10 u., escalar 10 u.",
+        "stats": [
+          16,
+          5,
+          16,
+          3,
+          7,
+          1
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_resistances": "tallant",
+        "damage_immunities": "àcid, elèctric, foc",
+        "damage_vulnerabilities": "fred",
+        "condition_immunities": "encegat, encantat, ensordit, exhaustió, espantat, estirat",
+        "senses": "visió cega 60 u. (cec més enllà d'aquest radi)",
+        "cr": "2",
+        "traits": [
+          {
+            "name": "Escalar d'Aranya",
+            "desc": "El glòbul pot escalar superfícies difícils, incloent sostres, sense haver de fer controls d'habilitat."
+          },
+          {
+            "name": "Absorció d'Energia",
+            "desc": "Quan el glòbul sigui sotmés a dany d'àcid, elèctric o foc, recupera la meitat del dany que rebria en punts vitals. A més, el seu següent atac de Pseudopod causa 2d6 de dany addicional del tipus de dany corresponent."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Pseudopod",
+            "desc": "Atac cos a cos: +5 per donar, rang 5 u., un objectiu. Dany: 9 (2d6 + 3) impacte."
+          },
+          {
+            "name": "Divisió Globular",
+            "desc": "El glòbul es divideix en dos, com si fes servir la seva reacció Dividir-se."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Agrupar-se",
+            "desc": "Si el glòbul és de mida mitjana o menor, es pot fusionar amb un altre glòbul que estigui a 5 u. d'ell. Al fer-ho, els seus punts vitals es sumen, i si són de la mateixa mida al fusionar-se, la mida de la fusió resultant és de la categoria immediatament superior."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [
+          {
+            "name": "Dividir-se",
+            "desc": "Quan un glòbul Mitjà o major és sotmès a dany tallant, es divideix en dos nous glòbuls si té almenys 10 punts vitals. Cada nou glòbul té punts vitals iguals a la meitat del glòbul original, arrodonint a la baixa. Els nous glòbuls són d'una mida menor a la gelatina original."
+          }
+        ],
+        "source": "MicMiquel - Monstres i Enemics"
+      }
+    ],
+    [
+      "Flegma Roja",
+      {
+        "image": null,
+        "name": "Flegma Roja",
+        "size": "Petit,",
+        "type": "Llim",
+        "alignment": "Amoral",
+        "ac": 13,
+        "hp": 36,
+        "hit_dice": "8d6+8",
+        "velocitat": "30 u., escalar 30 u.",
+        "stats": [
+          11,
+          17,
+          12,
+          5,
+          14,
+          3
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_resistances": "",
+        "condition_immunities": "encegat, ensordit, estirat, exhaustió",
+        "senses": "",
+        "cr": "5",
+        "traits": [
+          {
+            "name": "Amorf",
+            "desc": "La flegma es pot moure per espais tan estrets com 2,5 cm d'ample sense estrènyer-se."
+          },
+          {
+            "name": "Escalar d'Aranya",
+            "desc": "La flegma pot escalar superfícies difícils, incloent sostres, sense haver de fer controls d'habilitat."
+          },
+          {
+            "name": "Escapada Relliscosa",
+            "desc": "La flegma pot retirar-se o amagar-se amb una acció bonus en cada un dels seus torns."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Pseudopod",
+            "desc": "Atac cos a cos: +6 per donar, rang 5 u., un objectiu. Dany: 9 (2d6 + 3) impacte + 7 (2d6) psíquic."
+          },
+          {
+            "name": "Posseir (Recàrrega 5-6)",
+            "desc": "La flegma afecta a una criatura mitjana o menor a 5 u. d'ella. La criatura ha de superar un salvament de Constitució de CD 14 o ser posseïda per la flegma, excepte els llims, constructes i no-morts, que hi són immunes. La flegma llavors desapareix dins el cos de l'objectiu a través dels seus orificis, deixant-lo incapacitat i agafant control del seu cos, sense eliminar la consciència de l'objectiu. A més, recupera 4d6 punts vitals. La flegma no pot ser l'objectiu de cap atac, ni cap encanteri o altre efecte que requereixi veure-la, i manté les seves puntuacions de Carisma, Saviesa i Intel·ligència, però usa les estadístiques de l'objectiu per a la resta, excepte el seu coneixement, proficiències i habilitats de classe. La possessió dura fins que el cos ocupat arribi a 0 punts vitals, la flegma la finalitzi amb una acció bonus o aquesta sigui expulsada amb un efecte que curi malalties, com l'encanteri [[Restauració Menor]]. Al acabar la possessió, la flegma apareix en un espai lliure a 5 u. del cos. L'objectiu és immune a aquesta habilitat de la flegma durant les properes 24 hores al acabar la possessió o superar el salvament."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Monstres i Enemics"
+      }
+    ],
+    [
+      "Pantera Psiònica",
+      {
+        "image": null,
+        "name": "Pantera Psiònica",
+        "size": "Mitjana,",
+        "type": "Aberració",
+        "alignment": "Legal Neutral",
+        "ac": 14,
+        "hp": 72,
+        "hit_dice": "16d6+16",
+        "velocitat": "50 u., escalar 40 u.",
+        "stats": [
+          12,
+          17,
+          13,
+          18,
+          15,
+          12
+        ],
+        "saves": [
+          {
+            "Carisma": 4
+          },
+          {
+            "Destresa": 6
+          },
+          {
+            "Intel·ligència": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Investigació": 7
+          },
+          {
+            "Percepció": 5
+          },
+          {
+            "Sigil": 6
+          }
+        ],
+        "cr": "6",
+        "languages": "Comú, Celestial, Infernal",
+        "resistances": "psíquic",
+        "senses": "Visió Nocturna 120 u., Visió Vertadera 60 u., Percepció passiva 15",
+        "traits": [
+          {
+            "name": "Sentits Esmolats",
+            "desc": "La pantera té avantatge en controls de Saviesa (Percepció) que es basin en l'olfacte o en la vista."
+          },
+          {
+            "name": "Cobertura Màgica Limitada",
+            "desc": "La pantera no pot ser afectada o detectada per encanteris de l'escola de Divinació de nivell 5 o menors a no ser que ho desitgi."
+          },
+          {
+            "name": "Recrèixer Espines",
+            "desc": "La pantera té 12 espines psíquiques a la seva cua. Les espines usades tornen a créixer quan la mantícora acaba un descans llarg."
+          }
+        ],
+        "spells": [
+          "L'habilitat innata d'encantament de la Pantera Psiònica és Intel·ligència (salvament d'encanteri CD 15). Innatament pot conjurar els següents encanteris, només requerint components verbals:",
+          "A voluntat: [[Detectar Pensaments]], [[Detectar Màgia]], [[Levitar]], [[Passa Bromosa]]",
+          "\n1/dia cada: [[Telecinesis]], [[Estàtica Sinàptica]], [[Confusió]]"
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "La pantera fa tres atacs: un amb la seva mossegada i dos amb les seves urpes. Pot substituir qualsevol d'aquests atacs amb una espina psíquica."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +6 per donar, rang 5 u., un objectiu. Dany: 6 (1d6 + 3) perforant + 7 (2d6) psíquic."
+          },
+          {
+            "name": "Urpada",
+            "desc": "Atac cos a cos: +6 per donar, rang 5 u., un objectiu. Dany: 5 (1d4 + 3) tallant + 7 (2d6) psíquic."
+          },
+          {
+            "name": "Espina Psíquica",
+            "desc": "Atac a Distància: +6 per donar, rang 60/120 u., un objectiu. Dany: 5 (1d4 + 3) perforant + 3 (1d6) psíquic. A més, l'objectiu ha de restar 1d4 al proper salvament que faci abans del final del teu proper torn."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Monstres i Enemics"
+      }
+    ],
+    [
+      "Closcarbó",
+      {
+        "image": null,
+        "name": "Closcarbó",
+        "size": "Enorme,",
+        "type": "Elemental",
+        "alignment": "Amoral",
+        "ac": 17,
+        "hp": 136,
+        "hit_dice": "12d10+70",
+        "velocitat": "30 u., excavar 30 u.",
+        "stats": [
+          22,
+          7,
+          23,
+          3,
+          10,
+          4
+        ],
+        "saves": [
+          {
+            "Saviesa": 4
+          }
+        ],
+        "skillsaves": [
+          {
+            "Supervivència": 4
+          }
+        ],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "impacte, perforant, i tallant d'armes no màgiques, fred",
+        "damage_immunities": "foc, verí",
+        "condition_immunities": "exhaustió, petrificat, enverinat",
+        "senses": "Visió Nocturna 60 u., Sentit del Tremolor 60 u.",
+        "languages": "",
+        "cr": "11",
+        "traits": [
+          {
+            "name": "Cos de Brases",
+            "desc": "Aquells que entren a 5 u. del cos de la closcarbó per primera vegada en un torn o hi acaben el torn reben 3 (1d6) dany de foc. Aquesta habilitat només està activa si la closcarbó té disponible l'atac Expulsar Carbons."
+          },
+          {
+            "name": "Susceptibilitat a l'Aigua",
+            "desc": "Quan el closcarbó entra en contacte amb 4 litres d'aigua o més, deixa de tenir disponible l'atac Expulsar Carbons, fins a ser recarregat. En canvi, quan rebria dany de foc aquest es recarrega automàticament."
+          },
+          {
+            "name": "Monstre de Setge",
+            "desc": "El closcarbó fa el doble de dany a objectes i estructures."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "El closcarbó fa una mossegada i un patac."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +11 per donar, rang 10 u., un objectiu. Dany: 17 (2d12 + 6) tallant + 9 (2d8) foc."
+          },
+          {
+            "name": "Patac",
+            "desc": "Atac cos a cos: +11 per donar, rang 10 u., un objectiu. Dany: 17 (2d12 + 6) d'impacte."
+          },
+          {
+            "name": "Expulsar Carbons (Recàrrega 5-6)",
+            "desc": "La closcarbó fa explotar la seva closca en una pluja de carbó roent. Cada criatura a 20 u. d'ella ha de superar un salvament de Destresa de CD 18, rebent 45 (10d8) dany de foc si fallen el salvament, o la meitat si el superen."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Monstres i Enemics"
+      }
+    ],
+    [
+      "L'Orella",
+      {
+        "image": null,
+        "name": "L'Orella",
+        "size": "Mitjana,",
+        "type": "Monstruositat",
+        "alignment": "Legal Neutral",
+        "ac": 13,
+        "hp": 76,
+        "hit_dice": "12d8+22",
+        "velocitat": "30 u.",
+        "stats": [
+          10,
+          16,
+          14,
+          9,
+          19,
+          7
+        ],
+        "saves": [
+          {
+            "Destresa": 5
+          },
+          {
+            "Saviesa": 6
+          }
+        ],
+        "skillsaves": [
+          {
+            "Intuïció": 6
+          },
+          {
+            "Percepció": 6
+          },
+          {
+            "Sigil": 5
+          }
+        ],
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "damage_vulnerabilities": "so",
+        "condition_immunities": "exhaustió",
+        "senses": "Visió Cega 60 u. (cega més enllà), Percepció passiva 16",
+        "languages": "Comú, una llengua escollida pel seu creador",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Gran Oïda",
+            "desc": "L'Orella té avantatge en controls de Saviesa (Percepció) que es basin en l'oïda."
+          },
+          {
+            "name": "Naturalesa Guardiana",
+            "desc": "L'Orella té avantatge en salvaments contra ser encantada, i la màgia no pot adormir-la."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Cop de Puny",
+            "desc": "Atac cos a cos: +2 per donar, rang 5 u., un objectiu. Dany: 3 (1d6) impacte."
+          },
+          {
+            "name": "Dona l'Alarma (1/Descans)",
+            "desc": "L'orella emet un fort so des dels seus cons, que s'escolta a 300 u. Tota criatura enemiga a 30 u. d'ella que pugui escoltar-la ha de superar un salvament de Constitució de CD 14. Si el falla, una criatura cau rep 14 (4d6) dany de so i és sotmesa als efectes de l'encanteri [[Alentir]], podent repetir el salvament al finals dels seus torns, acabant amb l'efecte si té èxit. Si el supera, només rep la meitat del dany i cap altre efecte. Les criatures aliades que l'escoltin poden duplicar la seva velocitat i fer atacs amb avantatge durant el seu proper torn."
+          }
+        ],
+        "spells": [
+          "L'habilitat innata d'encantament de l'Orella és Saviesa (salvament d'encanteri CD 14, +6 per donar amb atacs d'encanteri). Pot conjurar innatament els següents encanteris, sense requerir components materials:",
+          "A voluntat: [[Tronada]] (2d6 de dany), [[Ceguera, Sordesa]] (només l'opció de Sordesa)",
+          "\n2/dia cada: [[Silenci]], [[Ona Tronadora]]"
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Monstres i Enemics"
+      }
+    ],
+    [
+      "L'Ull",
+      {
+        "image": null,
+        "name": "L'Ull",
+        "size": "Petita,",
+        "type": "Monstruositat",
+        "alignment": "Legal Neutral",
+        "ac": 10,
+        "hp": 42,
+        "hit_dice": "12d6",
+        "velocitat": "20 u., escalar 20 u.",
+        "stats": [
+          5,
+          9,
+          11,
+          18,
+          20,
+          11
+        ],
+        "saves": [
+          {
+            "Carisma": 2
+          },
+          {
+            "Intel·ligència": 6
+          },
+          {
+            "Saviesa": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Intuïció": 7
+          },
+          {
+            "Investigació": 6
+          },
+          {
+            "Percepció": 7
+          }
+        ],
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "exhaustió",
+        "senses": "Visió Vertadera 120 u., Percepció passiva 17",
+        "languages": "totes, telepatia 120 u.",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Escalar d'Aranya",
+            "desc": "L'Ull pot escalar superfícies difícils, incloent sostres, sense haver de fer controls d'habilitat."
+          },
+          {
+            "name": "Gran Vista",
+            "desc": "L'Ull té avantatge en controls de Saviesa (Percepció) o Intel·ligència (Investigació) que es basin en la vista."
+          },
+          {
+            "name": "Naturalesa Guardiana",
+            "desc": "L'Ull té avantatge en salvaments contra ser encantat, i la màgia no pot adormir-lo."
+          },
+          {
+            "name": "Ulls Esbatanats",
+            "desc": "L'Ull té desavantatge en salvaments contra efectes que el puguin encegar."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Pseudopod",
+            "desc": "Atac cos a cos: +0 per donar, rang 5 u., una criatura. Dany: 1 impacte."
+          }
+        ],
+        "bonus_actions": [
+          {
+            "name": "Cercar Febleses",
+            "desc": "L'Ull pot indicar els punts dèbils que detecti d'un enemic per a donar avantatge en el proper tir d'atac d'un aliat contra aquest."
+          }
+        ],
+        "spells": [
+          "L'habilitat innata d'encantament de l'Ull és Intel·ligència (salvament d'encanteri CD 14, +6 per donar amb atacs d'encanteri). Pot conjurar innatament els següents encanteris, sense requerir components materials:",
+          "A voluntat: [[Detectar Pensaments]], [[Projectil Ardent]] (2d10 de dany)",
+          "\n3/dia cada: [[Contra-encanteri]], [[Dormir]], [[Parany]], [[Pues Platejades]]",
+          "\n1/dia cada: [[Clarividència]], [[Predir]], [[Trobar Criatura]]"
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Monstres i Enemics"
+      }
+    ],
+    [
+      "La Mà",
+      {
+        "image": null,
+        "name": "La Mà",
+        "size": "Gran,",
+        "type": "Monstruositat",
+        "alignment": "Legal Neutral",
+        "ac": 15,
+        "hp": 114,
+        "hit_dice": "12d10+48",
+        "velocitat": "50 u., escalar 30 u., excavar 20 u.",
+        "stats": [
+          20,
+          14,
+          19,
+          6,
+          16,
+          5
+        ],
+        "saves": [
+          {
+            "Constitució": 6
+          },
+          {
+            "Destresa": 4
+          },
+          {
+            "Força": 7
+          }
+        ],
+        "skillsaves": [
+          {
+            "Acrobàcies": 4
+          },
+          {
+            "Atletisme": 7
+          },
+          {
+            "Percepció": 5
+          }
+        ],
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "encegat, ensordit, exhaustió",
+        "senses": "Sentit del Tremolor 60 u., Percepció passiva 15",
+        "languages": "entén Comú i una llengua escollida pel seu creador però no pot parlar-les",
+        "cr": "4",
+        "traits": [
+          {
+            "name": "Gran Tacte",
+            "desc": "La Mà té avantatge en controls de Saviesa (Percepció) que es basin en el tacte."
+          },
+          {
+            "name": "Naturalesa Guardiana",
+            "desc": "La Mà té avantatge en salvaments contra ser encantat, i la màgia no pot adormir-lo."
+          },
+          {
+            "name": "Càrrega",
+            "desc": "Si la Mà es mou almenys 20 u. recte cap a un objectiu i després li dona amb un cop de puny en el mateix torn, l'objectiu rep un extra de 9 (2d8) d'impacte. Si l'objectiu és una criatura, ha de superar un salvament de Força de CD 15 o caure estirada."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "La Mà fa dos garguirots"
+          },
+          {
+            "name": "Cop de Puny",
+            "desc": "Atac cos a cos: +7 per donar, rang 5 u., una criatura. Dany: 23 (4d8 + 5) impacte."
+          },
+          {
+            "name": "Esclafar",
+            "desc": "Atac cos a cos: +7 per donar, rang 5 u., una criatura Gran o menor. Dany: 23 (4d8 + 5) impacte. L'objectiu és agafat (escapar CD 16) i restringit fins que aquesta agafada acaba. Fins que deixi d'agafar, la Mà només pot esclafar la criatura agafada i té avantatge en tirs d'atac per fer-ho."
+          },
+          {
+            "name": "Garguirot",
+            "desc": "Atac cos a cos: +7 per donar, rang 10 u., una criatura. Dany: 12 (2d8 + 5) impacte. Si l'objectiu és una criatura, ha de superar un salvament de Força de CD 15 o ser empesa fins a 15 u. enrere i caure estirada."
+          }
+        ],
+        "bonus_actions": [],
+        "spells": [],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Monstres i Enemics"
+      }
+    ],
+    [
+      "Boscany",
+      {
+        "image": null,
+        "name": "Boscany",
+        "size": "Enorme,",
+        "type": "Planta",
+        "alignment": "Neutral Maligna",
+        "ac": 15,
+        "hp": 130,
+        "hit_dice": "12d12+52",
+        "velocitat": "40 u.",
+        "stats": [
+          21,
+          12,
+          19,
+          6,
+          10,
+          6
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "saviesa": 3
+          }
+        ],
+        "damage_vulnerabilities": "foc, radiant",
+        "damage_resistances": "impacte i perforant no màgic",
+        "damage_immunities": "necròtic",
+        "condition_immunities": "encegat, ensordit",
+        "senses": "visió Cega 60 u. (cec més enllà d'aquest radi), Percepció passiva 13",
+        "languages": "",
+        "cr": "8",
+        "traits": [
+          {
+            "name": "Ferum de No-Mort",
+            "desc": "El boscany pot detectar màgicament la localització de no-morts a 300 u. d'ell."
+          },
+          {
+            "name": "Fill del Bosc",
+            "desc": "El boscany pot moure's en terreny difícil format per vegetació o restes vegetals com si fos terreny normal."
+          },
+          {
+            "name": "Fortitud Nigromàntica",
+            "desc": "Si dany redueix el boscany a 0 punts vitals, ha de superar un salvament de Constitució de CD = 5 + dany rebut, a no ser que el dany sigui radiant o d'un cop crític. Si el supera, el boscany cau a 1 punt vital en comptes de 0."
+          }
+        ],
+        "spells": [
+          "L'habilitat innata d'encantament del Boscany és Saviesa (salvament d'encanteri CD 13). Innatament pot conjurar els següents encanteris, sense requerir components:",
+          "A voluntat: [[Creixement d'Estaques]], [[Parra Agafadora]]"
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "El boscany fa tres atacs: dos amb les seves braços i un amb les seves falgueres."
+          },
+          {
+            "name": "Braç de Soca",
+            "desc": "Atac cos a cos: +8 per donar, rang 10 u., un objectiu. Dany: 19 (3d8+5) impacte."
+          },
+          {
+            "name": "Falgueres Drenadores",
+            "desc": "Atac cos a cos: +4 per donar, rang 5 u., un objectiu. Dany: 10 (3d6) necròtic, i el boscany recupera un nombre de punts vitals igual a la meitat del dany causat."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [
+          {
+            "name": "Escorça Espinosa",
+            "desc": "Com a resposta a rebre dany, el boscany creix branques espinoses i esmolades de la seva esquena i braços. Aquelles criatures a 5 u. d'ell han de superar un salvament de Destresa o rebre 7 (2d6) dany perforant."
+          }
+        ],
+        "source": "MicMiquel - Monstres i Enemics"
+      }
+    ],
+    [
+      "Magnòlia Ossera",
+      {
+        "image": null,
+        "name": "Magnòlia Ossera",
+        "size": "Mitjana,",
+        "type": "Planta",
+        "alignment": "Amoral",
+        "ac": 13,
+        "hp": 44,
+        "hit_dice": "8d8+8",
+        "velocitat": "20 u., escalar 20 u.",
+        "stats": [
+          10,
+          16,
+          13,
+          2,
+          6,
+          3
+        ],
+        "saves": [],
+        "skillsaves": [
+          {
+            "Percepció": -2
+          }
+        ],
+        "senses": "Visió Cega 60 u. (cega més enllà d'aquesta distància), Percepció passiva 8",
+        "cr": "3",
+        "traits": [
+          {
+            "name": "Aparença Falsa",
+            "desc": "Mentre la Magnòlia estigui quieta, és indistingible d'una gran flor."
+          },
+          {
+            "name": "Escalar d'Aranya",
+            "desc": "La Magnòlia pot escalar superfícies difícils, incloent sostres, sense haver de fer controls d'habilitat."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "La Magnòlia fa dos atacs d'Escopir Bulb."
+          },
+          {
+            "name": "Pètals de Mort",
+            "desc": "Atac cos a cos: +0 per donar, rang 5 u., un objectiu. Dany: 14 (4d6) verí."
+          },
+          {
+            "name": "Escopir Bulb",
+            "desc": "Atac a Distància: +3 per donar, rang 20/40 u., un objectiu. Dany: 2 (1d4) perforant. L'objectiu és sembrat amb un bulb de Magnòlia Ossera, que comença a arrelar a la seva carn i paralitzar-lo. A l'inici de cada torn, l'objectiu ha de superar un salvament de Constitució de CD 11 o quedar paralitzat. Aplicar foc al bulb causa 1 foc de dany a l'objectiu i mata el bulb, acabant amb l'efecte. També es pot arrencar un bulb usant una acció, acabant amb l'efecte."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Monstres i Enemics"
+      }
+    ],
+    [
+      "Enterbolit",
+      {
+        "image": null,
+        "name": "Enterbolit",
+        "size": "Mitjà,",
+        "type": "Humanoide",
+        "alignment": "Caòtic Maligne",
+        "ac": 12,
+        "hp": 27,
+        "hit_dice": "5d8+5",
+        "velocitat": "15 u., nedar 30 u.",
+        "stats": [
+          15,
+          12,
+          14,
+          6,
+          9,
+          7
+        ],
+        "saves": [],
+        "skillsaves": [],
+        "damage_vulnerabilities": "",
+        "damage_resistances": "",
+        "damage_immunities": "",
+        "condition_immunities": "",
+        "senses": "Visió Nocturna 60 u.",
+        "languages": "Entén Abissal i les llengües que entenia abans de transformar-se, però no pot parlar",
+        "cr": "1",
+        "traits": [
+          {
+            "name": "Esclau de l'aigua",
+            "desc": "L'enterbolit pot respirar aire i aigua, però necessita submergir-se completament en aigua cada 12 hores o guanyar un punt d'exhaustió."
+          }
+        ],
+        "spells": [],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "L'enterbolit fa tres atacs: dues urpades i una mossegada, o usa Escopir Aigua."
+          },
+          {
+            "name": "Urpada",
+            "desc": "Atac cos a cos: +4 per donar, rang 5 u., un objectiu. Dany: 4 (1d4+2) tallant."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +4 per donar, rang 5 u., un objectiu. Dany: 4 (1d6+2) perforant."
+          },
+          {
+            "name": "Escopir Aigua",
+            "desc": "Atac a Distància: +4 per donar, rang 20/60 u., un objectiu. Dany: 5 (2d6 + 2) impacte. Per a tornar a usar aquest atac, cal que l'enterbolit passi una ronda sencera dins de l'aigua."
+          }
+        ],
+        "legendary_actions": [],
+        "reactions": [],
+        "source": "MicMiquel - Aigua Tèrbola"
+      }
+    ],
+    [
+      "Aberració Abissal",
+      {
+        "image": null,
+        "name": "Aberració Abissal",
+        "source": "MicMiquel - Aigua Tèrbola",
+        "type": "Esperit Maligne",
+        "subtype": "",
+        "size": "Gran,",
+        "alignment": "Caòtic Maligne",
+        "hp": 127,
+        "hit_dice": "15d10 + 45",
+        "ac": 16,
+        "velocitat": "20 u., nedar 60 u.",
+        "stats": [
+          17,
+          18,
+          17,
+          11,
+          16,
+          9
+        ],
+        "damage_immunities": "",
+        "damage_resistances": "verí, necròtic",
+        "damage_vulnerabilities": "",
+        "condition_immunities": "",
+        "saves": [
+          {
+            "Constitució": "7"
+          },
+          {
+            "Destresa": "7"
+          }
+        ],
+        "skillsaves": [],
+        "senses": "Visió Nocturna 60 u., Percepció passiva 13",
+        "languages": "Abissal",
+        "cr": "9",
+        "traits": [
+          {
+            "name": "Amfibi",
+            "desc": "L'aberració abissal pot respirar aire i aigua."
+          },
+          {
+            "name": "Enverinar Aigua",
+            "desc": "Si l'aberració passa una hora submergida en un cos d'aigua, aquest queda enverinat durant 1d4 dies. Qui en begui ha de superar un salvament de Constitució de CD15 o patir la maledicció de la Sang Tèrbola."
+          },
+          {
+            "name": "Curació Líquida",
+            "desc": "Si l'aberració comença el seu torn dins d'un cos d'aigua, recupera 10 punts vitals."
+          },
+          {
+            "name": "Dependència Humida",
+            "desc": "Si l'aberració passa més d'un minut fora d'un cos d'aigua, o si rep més de 20 punts de dany de foc en una ronda, s'asseca i entra en el seu estat debilitat. En aquest estat, la seva CA i la CD de les seves habilitats es redueix per 2, i fa les seves tirades d'atac amb desavantatge. A més, la seva característica Curació Líquida no s'activa a l'inici del seu torn. Si el seu cos entra en contacte amb un cos d'aigua durant el seu torn, torna al seu estat original."
+          }
+        ],
+        "accions": [
+          {
+            "name": "Multi-atac",
+            "desc": "L'aberració abissal constreny, mossega, i escup aigua si té l'atac disponible."
+          },
+          {
+            "name": "Constrènyer",
+            "desc": "Atac cos a cos: +8 per donar, rang 5 u., una criatura Mitjana o menor. Dany: 15 (2d10 + 4) impacte + 7 (2d6) verí. L'objectiu és agafat (escapar CD 12) si l'aberració no està constrenyent ja una criatura, i l'objectiu és restringit fins que aquesta agafada acaba."
+          },
+          {
+            "name": "Mossegada",
+            "desc": "Atac cos a cos: +8 per donar, rang 10 u., un objectiu. Dany: 20 (3d10 + 4) perforant."
+          },
+          {
+            "name": "Escopir Aigua (Recàrrega 4-6)",
+            "desc": "L'aberració escup aigua en una línia de 60 u. i 5 u. d'amplada. Cada criatura dins la línia ha de superar un salvament de Destresa de CD 15, rebent 27 (6d8) dany d'impacte si fallen el salvament i sent empeses 10 u. enrere. Si el superen, només reben la meitat del dany i no són empeses."
+          }
+        ],
+        "bonus_actions": [],
+        "reactions": [],
+        "legendary_actions": [],
+        "spells": [],
+        "spellsNotes": ""
+      }
     ]
   ],
   "defaultLayouts": {},
@@ -57533,8 +61031,8 @@
   "showAdvanced": true,
   "version": {
     "major": 4,
-    "minor": 8,
-    "patch": 1
+    "minor": 10,
+    "patch": 3
   },
   "paths": [
     "/"
