@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "83ec2584e18c7648",
+        "id": "10c17a063f27fe1d",
         "type": "tabs",
         "children": [
           {
-            "id": "fbc17bd7cb76090e",
+            "id": "10d5dac86c903d6d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "database-plugin",
+              "state": {
+                "file": "Encanteris/Taula Encanteris.md"
+              },
+              "icon": "database-folder-icon",
+              "title": "Taula Encanteris"
             }
           }
         ]
@@ -109,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Monstres/Targetes de monstres/Aarakocra.md",
+                "file": "Encanteris/Taula Encanteris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Aarakocra"
+              "title": "Enlaces salientes de Taula Encanteris"
             }
           },
           {
@@ -184,8 +186,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a55cd41bddb7ebe9",
+  "active": "10d5dac86c903d6d",
   "lastOpenFiles": [
+    "Encanteris/Llista d'Encanteris/Salvar els Moribunds.md",
+    "Encanteris/Taula Encanteris.md",
+    "Encanteris/Llista d'Encanteris/Resurrecció.md",
+    "Encanteris/Llista d'Encanteris/Llibertat de les Ones.md",
+    "Encanteris/Llista d'Encanteris/Llibertat dels Vents.md",
+    "Encanteris/Llista d'Encanteris/Perdició.md",
+    "Encanteris/Tipus de màgic/Taula Artificier.md",
     "Monstres/Targetes de monstres/Aparició Guerrera d'Espasa.md",
     "Monstres/Targetes de monstres/Aarakocra.md",
     "Monstres/Casolans/Altres One-Shots/Aberració Abissal.md",
@@ -206,13 +215,6 @@
     "Gestes i Passats/Gestes Racials.md",
     "Normes/Característiques de Classe.md",
     "0bsidian/Fotos/ma de yurtrus.png",
-    "0bsidian/Info general Obsidian/Plantilles/Handlebar criature test.md",
-    "0bsidian/Info general Obsidian/Plantilles/Plantilla genèrica.md",
-    "0bsidian/Info general Obsidian/Plantilles/Plantilla PC.md",
-    "0bsidian/Info general Obsidian/Plantilles/Plantilla per modificar.md",
-    "0bsidian/Info general Obsidian/Plantilles/Statblock generic.md",
-    "0bsidian/Info general Obsidian/Informació sobre els Plugins.md",
-    "Monstres/Targetes de monstres/Arcanaloth.md",
     "0bsidian/Fotos/dona-pantinaga.png",
     "Pasted image 20240710121932.png",
     "Pasted image 20240709134333.png",
